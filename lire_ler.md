@@ -32,3 +32,7 @@ Nous lirons (nós leremos)
 Vous lirez (vocês lerão)
 Ils/Elles liront (eles/elas lerão)
 
+
+Frases:
+
+- Nous lison un menu. / Nós estamos lendo o cardápio.
