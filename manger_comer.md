@@ -1,4 +1,4 @@
-Presente do Indicativo:
+## Presente do Indicativo:
 
 Je mange (eu como)
 Tu manges (tu comes)
@@ -28,3 +28,4 @@ Frases:
 
 - Mangez vous? / Vocês comem?
 - Je mange une orange. / Eu como uma banana.
+- Nous mangeons viande de la viande. / Nós comemos carne.

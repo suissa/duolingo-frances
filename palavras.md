@@ -1,11 +1,18 @@
-poison - peixe
-bouef - carne vermelha / de boi
-nourriture - comida
-bonbon - doce
-rouge - vermelho
-thé - chá
-oignon - cebola
-repas - refeição
-robes - vestidos
-pomme - maçã
-livre - livro
+poison: peixe
+bouef: carne vermelha / de boi
+nourriture: comida
+bonbon: doce
+rouge: vermelho
+thé: chá
+oignon: cebola
+repas: refeição
+robes: vestidos
+pomme: maçã
+livre: livro
+noir: preto
+singe: macaco
+garçon: garoto
+huile: óleo
+raisin: uva
+haricots: feijão
+citron: limão
