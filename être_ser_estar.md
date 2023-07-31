@@ -31,3 +31,16 @@ O verbo "être" (ser/estar) é um dos verbos mais importantes e irregulares em f
 
 
 Como mencionado anteriormente, "être" é um dos verbos mais importantes em francês e é usado para expressar tanto o sentido de "ser" quanto "estar" em português, dependendo do contexto. A conjugação irregular pode parecer complexa no início, mas com a prática, você se tornará mais confortável ao usá-lo em várias situações. A prática regular é a chave para a fluência em francês.
+
+O verbo "être" (ser/estar) na forma "êtes" é a conjugação correspondente para a segunda pessoa do plural (vocês) no presente do indicativo e também em outros tempos verbais que exigem essa forma. Aqui está a conjugação do verbo "être" no presente do indicativo e no futuro simples para "êtes":
+
+Presente do Indicativo:
+
+- Vous êtes (vocês são/estão)
+
+### Futuro Simples (Futur Simple):
+
+- Vous serez (vocês serão/estarão)
+
+
+Observe que "êtes" é usado exclusivamente para a segunda pessoa do plural (vocês) em francês. É importante lembrar que o verbo "être" é muito importante e irregular na língua francesa, então requer prática e exposição contínua para se familiarizar com suas várias formas em diferentes tempos verbais. Com a prática regular, você se sentirá mais à vontade ao usar o verbo "être" e outros verbos em francês.
