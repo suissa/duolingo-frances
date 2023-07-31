@@ -22,3 +22,8 @@ Il/Elle mangera (ele/ela comerá)
 Nous mangerons (nós comeremos)
 Vous mangerez (vocês comerão)
 Ils/Elles mangeront (eles/elas comerão)
+
+
+Frases:
+
+- Mangez vous? / Vocês comem?
