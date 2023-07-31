@@ -5,3 +5,4 @@ bonbon - doce
 rouge - vermelho
 thé - chá
 oignon - cebola
+repas - refeição
