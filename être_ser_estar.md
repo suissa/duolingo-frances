@@ -44,3 +44,8 @@ O verbo "être" (ser/estar) na forma "êtes" é a conjugação correspondente pa
 
 
 Observe que "êtes" é usado exclusivamente para a segunda pessoa do plural (vocês) em francês. É importante lembrar que o verbo "être" é muito importante e irregular na língua francesa, então requer prática e exposição contínua para se familiarizar com suas várias formas em diferentes tempos verbais. Com a prática regular, você se sentirá mais à vontade ao usar o verbo "être" e outros verbos em francês.
+
+
+# Frases:
+
+Vous avez une fille? / Vocês têm uma filha?

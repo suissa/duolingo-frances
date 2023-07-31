@@ -35,4 +35,5 @@ Ils/Elles liront (eles/elas lerão)
 
 Frases:
 
-- Nous lison un menu. / Nós estamos lendo o cardápio.
+- Nous lisons un menu. / Nós estamos lendo o cardápio.
+- Nous lisons un journal. / Nós lemos um jornal.

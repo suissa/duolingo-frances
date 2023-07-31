@@ -27,3 +27,4 @@ Ils/Elles mangeront (eles/elas comerão)
 Frases:
 
 - Mangez vous? / Vocês comem?
+- Je mange une orange. / Eu como uma banana.
