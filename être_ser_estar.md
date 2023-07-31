@@ -34,7 +34,7 @@ Como mencionado anteriormente, "être" é um dos verbos mais importantes em fran
 
 O verbo "être" (ser/estar) na forma "êtes" é a conjugação correspondente para a segunda pessoa do plural (vocês) no presente do indicativo e também em outros tempos verbais que exigem essa forma. Aqui está a conjugação do verbo "être" no presente do indicativo e no futuro simples para "êtes":
 
-Presente do Indicativo:
+### Presente do Indicativo:
 
 - Vous êtes (vocês são/estão)
 

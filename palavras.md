@@ -6,3 +6,6 @@ rouge - vermelho
 thé - chá
 oignon - cebola
 repas - refeição
+robes - vestidos
+pomme - maçã
+livre - livro
