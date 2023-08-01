@@ -44,7 +44,9 @@ cuisine: cozinha
 voudrais: gostaria
 combien: quanto
 excusez-moi: com licença
-jai: eu tenho
+mot: palavra
+mot de passe: senha
+
 
 
 il y a: tem
