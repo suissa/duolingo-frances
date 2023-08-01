@@ -46,7 +46,14 @@ combien: quanto
 excusez-moi: com licença
 mot: palavra
 mot de passe: senha
-
+perdu(e): perdido(a)
+m´aider: me ajude
+chercher: procurar
+carte: cartão
+payer: pagar
+puis: então
+puis-je: posso
+essayer: tentar/experimentar
 
 
 il y a: tem
