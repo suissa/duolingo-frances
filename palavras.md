@@ -16,3 +16,35 @@ huile: óleo
 raisin: uva
 haricots: feijão
 citron: limão
+jus: suco
+rien: nada / de rien: de nada
+tard: tarde
+bonsoir: boa noite
+seul: sozinho
+seule: sozinha
+fort: forte
+chaud: quente
+froid: frio
+propre: limpo
+amanhã: demain
+pesado: lourd
+jeune: jovem
+sale: sujo
+léger: leve
+gros: grande, gordo
+grosse: grande, grossa
+mauvaise: ruim
+lourd: pesado
+parfaite: perfeito
+froid: fria
+ronde: redonda
+sucre: açúcar
+bientôt: breve
+cuisine: cozinha
+voudrais: gostaria
+combien: quanto
+excusez-moi: com licença
+
+
+
+il y a: tem

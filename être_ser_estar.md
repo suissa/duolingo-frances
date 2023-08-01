@@ -49,3 +49,5 @@ Observe que "êtes" é usado exclusivamente para a segunda pessoa do plural (voc
 # Frases:
 
 Vous avez une fille? / Vocês têm uma filha?
+Le boef est une bonne viande. / A carne vermelha é uma boa carne.
+Je suis désolé! / 
