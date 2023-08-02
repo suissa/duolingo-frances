@@ -1,4 +1,11 @@
-poison: peixe
+
+- garçon: garoto
+- fille: menina
+- enfant: criança
+- homme: homem
+- femme: mulher
+
+- poison: peixe
 - bouef: carne vermelha / de boi
 - nourriture: comida
 - bonbon: doce
@@ -11,11 +18,7 @@ poison: peixe
 - livre: livro
 - noir: preto
 - singe: macaco
-- garçon: garoto
-- fille: menina
-- enfant: criança
-- homme: homem
-- femme: mulher
+
 - huile: óleo
 - raisin: uva
 - haricots: feijão
