@@ -1,3 +1,7 @@
+# Palavras em francês
+
+> Se a palavra termina com consoante o feminino adiciona e
+
 ### Pessoas
 
 - garçon: garoto
@@ -14,42 +18,52 @@
 - poison: peixe / de lo
 - poulet: frango / de lo
 - thé: chá / de la
-- jus: suco / de lo
-- oignon: cebola
-- pomme: maçã
-- bonbon: doce
+- huile: óleo / de l'huile
+- raisin: uva / de la
+- haricots: feijão / des haricots
+- citron: limão / du citron
+- jus: suco / du jus
+- oignon: cebola / de l'oignon
+- pomme: maçã / de la pomme
+- bonbon: doce / du bonbon
+- fraise: morango
+- sucre: açúcar
 
-### Substantivos
-- robes: vestidos
-- livre: livro
 
 ### Animais 
 - singe: macaco
 - ours: urso
 - canard: pato
+- oiseau: pássaro
+- cheval: cavalo
+- cochon: porco
+- mouche: mosca
+- tortue: tartaruga
+- lion: leão
+- abeille: abelha
+- requin: tubarão
+- dauphin: golfinho
+- araignée: aranha
+- serpent: cobra
+- fourmi: formiga
+- souris: rato
+- loup: lobo
+- baleine: baleia
+
+
 
 ### Adjetivos
-
 - rouge: vermelho
 - noir: preto
-
-- huile: óleo
-- raisin: uva
-- haricots: feijão
-- citron: limão
-- jus: suco
-- rien: nada / de rien: de nada
-- tard: tarde
-- bonsoir: boa noite
+- nouvelle: nova
 - seul: sozinho
 - seule: sozinha
 - fort: forte
 - chaud: quente
 - froid: frio
 - propre: limpo
-- demain: amanhã 
 - lourd: pesado
-- jeune - jovem 
+- jeune: jovem 
 - sale: sujo
 - léger: leve
 - gros: grande, gordo
@@ -60,12 +74,32 @@
 - parfaite: perfeito
 - froid: fria
 - ronde: redonda
-- sucre: açúcar
+- joli: bonito
+- jolie: bonito  com feminino antes
+- petit: pequeno
+- petite: pequeno  com feminino antes
+- gâteau: bolo
+- parfait: perfeito / é a forma masculina singular
+- parfaite: perfeito / é a forma feminina singular
+- gros: grande / é a forma masculina singular
+- grose: grande / é a forma feminina singular
+
+
+
+### Cumprimentos & outros
+- rien: nada / de rien: de nada
+- tard: tarde
+- bonsoir: boa noite
+- demain: amanhã 
 - bientôt: breve
-- cuisine: cozinha
-- voudrais: gostaria
-- combien: quanto
 - excusez-moi: com licença
+
+
+### Substantivos
+- robes: vestidos
+- livre: livro
+- cuisine: cozinha
+
 - mot: palavra
 - mot de passe: senha
 - perdu(e): perdido(a)
@@ -80,18 +114,15 @@
 - malade: doente
 - allergique: alérgico(a)
 - pâtes: massa
-- joli: bonito
-- jolie: bonito  com feminino antes
-- petit: pequeno
-- petite: pequeno  com feminino antes
-- gâteau: bolo
-- parfait: perfeito / é a forma masculina singular
-- parfaite: perfeito / é a forma feminina singular
-- gros: grande / é a forma masculina singular
-- grose: grande / é a forma feminina singular
+- voudrais: gostaria
 
 
-> Se a palavra termina com consoante o feminino adiciona e
+### Pronomes
+- combien: quanto
+- esse: ce
+- quoi: o quo
+- qu'est-ce: quem é
+
 
 
 - légère: leve / é a forma feminina singular.
