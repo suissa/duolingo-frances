@@ -1,3 +1,4 @@
+### Pessoas
 
 - garçon: garoto
 - fille: menina
@@ -5,19 +6,32 @@
 - homme: homem
 - femme: mulher
 
-- poison: peixe
-- bouef: carne vermelha / de boi
+### Comidas
 - nourriture: comida
-- bonbon: doce
-- rouge: vermelho
-- thé: chá
-- oignon: cebola
 - repas: refeição
-- robes: vestidos
+- bouef: carne vermelha / de boi
+- viande carne / de la viande
+- poison: peixe / de lo
+- poulet: frango / de lo
+- thé: chá / de la
+- jus: suco / de lo
+- oignon: cebola
 - pomme: maçã
+- bonbon: doce
+
+### Substantivos
+- robes: vestidos
 - livre: livro
-- noir: preto
+
+### Animais 
 - singe: macaco
+- ours: urso
+- canard: pato
+
+### Adjetivos
+
+- rouge: vermelho
+- noir: preto
 
 - huile: óleo
 - raisin: uva
