@@ -28,7 +28,7 @@ poison: peixe
 - propre: limpo
 - demain: amanhã 
 - lourd: pesado
-- jovem: jeune
+- jeune - jovem 
 - sale: sujo
 - léger: leve
 - gros: grande, gordo
@@ -58,7 +58,16 @@ poison: peixe
 - malade: doente
 - allergique: alérgico(a)
 - pâtes: massa
-- 
+- joli: bonito
+- jolie: bonito  com feminino antes
+- petit: pequeno
+- petite: pequeno  com feminino antes
+- gâteau: bolo
+- parfait: perfeito
+- parfaite: perfeito com feminino antes
+
+> Se a palavra termina com consoante o feminino adiciona e
+
 - 
 - il y a: tem
 - 
