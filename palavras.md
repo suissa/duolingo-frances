@@ -54,6 +54,10 @@ payer: pagar
 puis: então
 puis-je: posso
 essayer: tentar/experimentar
+goûter: provar
+malade: doente
+allergique: alérgico(a)
+pâtes: massa
 
 
 il y a: tem
