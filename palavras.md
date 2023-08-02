@@ -11,6 +11,7 @@
 - femme: mulher
 
 ### Comidas
+
 - nourriture: comida
 - repas: refeição
 - bouef: carne vermelha / de boi
@@ -28,9 +29,11 @@
 - bonbon: doce / du bonbon
 - fraise: morango
 - sucre: açúcar
+- gâteau: bolo
 
 
 ### Animais 
+
 - singe: macaco
 - ours: urso
 - canard: pato
@@ -53,6 +56,7 @@
 
 
 ### Adjetivos
+
 - rouge: vermelho
 - noir: preto
 - nouvelle: nova
@@ -65,24 +69,28 @@
 - lourd: pesado
 - jeune: jovem 
 - sale: sujo
-- léger: leve
-- gros: grande, gordo
-- grosse: grande, grossa
+- parfaite: perfeito
+- ronde: redonda
+- lourd: pesado / é a forma masculina singular
+- lourde: pesado / é a forma feminina singular
+- légère: leve / é a forma feminina singular
+- léger: leve / é a forma masculina singular
+- gros: grande, gordo / é a forma masculina singular
+- grosse: grande, grossa / é a forma feminina singular
 - mauvaise: ruim / é a forma feminina singular
 - mauvais: ruim / é a forma masculina singular
-- lourd: pesado
-- parfaite: perfeito
-- froid: fria
-- ronde: redonda
-- joli: bonito
-- jolie: bonito  com feminino antes
-- petit: pequeno
-- petite: pequeno  com feminino antes
-- gâteau: bolo
+- froid: fria / é a forma masculina singular
+- froide: fria / é a forma feminina singular
+- joli: bonito / é a forma masculina singular
+- jolie: bonito  / é a forma feminina singular
+- petit: pequeno / é a forma masculina singular
+- petite: pequeno  / é a forma feminina singular
 - parfait: perfeito / é a forma masculina singular
 - parfaite: perfeito / é a forma feminina singular
 - gros: grande / é a forma masculina singular
 - grose: grande / é a forma feminina singular
+- perdu: perdido / é a forma masculina singular
+- perdue: perdida / é a forma feminina singular
 
 
 
@@ -90,6 +98,7 @@
 - rien: nada / de rien: de nada
 - tard: tarde
 - bonsoir: boa noite
+- bonjour: bom dia
 - demain: amanhã 
 - bientôt: breve
 - excusez-moi: com licença
@@ -98,23 +107,17 @@
 ### Substantivos
 - robes: vestidos
 - livre: livro
+- lettre: carta
 - cuisine: cozinha
-
 - mot: palavra
 - mot de passe: senha
-- perdu(e): perdido(a)
 - m´aider: me ajude
-- chercher: procurar
 - carte: cartão
 - payer: pagar
 - puis: então
-- puis-je: posso
-- essayer: tentar/experimentar
-- goûter: provar
 - malade: doente
 - allergique: alérgico(a)
 - pâtes: massa
-- voudrais: gostaria
 
 
 ### Pronomes
@@ -125,10 +128,12 @@
 
 
 
-- légère: leve / é a forma feminina singular.
-- léger: leve / é a forma masculina singular
 
+### Verbos
 
-
+- puis-je: posso
+- essayer: tentar/experimentar
+- goûter: provar
+- voudrais: gostaria
+- chercher: procurar
 - il y a: tem
-- 
