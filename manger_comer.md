@@ -28,5 +28,8 @@ Frases:
 
 - Mangez vous? / Vocês comem?
 - Je mange une orange. / Eu como uma banana.
-- Nous mangeons viande de la viande. / Nós comemos carne.
 - Je mange du chocolat. / Eu como chocolate.
+- Tu manges du sucre. / Você come açúcar.
+- Nous mangeons viande de la viande. / Nós comemos carne.
+- Vous mangez pâtes. / Vocês comem massa.
+- Ils mangent. / Eles comem.
