@@ -65,9 +65,13 @@ poison: peixe
 - gâteau: bolo
 - parfait: perfeito
 - parfaite: perfeito com feminino antes
-
 > Se a palavra termina com consoante o feminino adiciona e
 
-- 
+
+- légère: leve / é a forma feminina singular.
+- léger: leve / é a forma masculina singular
+
+
+
 - il y a: tem
 - 
