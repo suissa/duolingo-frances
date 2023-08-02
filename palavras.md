@@ -12,6 +12,10 @@ poison: peixe
 - noir: preto
 - singe: macaco
 - garçon: garoto
+- fille: menina
+- enfant: criança
+- homme: homem
+- femme: mulher
 - huile: óleo
 - raisin: uva
 - haricots: feijão
@@ -33,7 +37,8 @@ poison: peixe
 - léger: leve
 - gros: grande, gordo
 - grosse: grande, grossa
-- mauvaise: ruim
+- mauvaise: ruim / é a forma feminina singular
+- mauvais: ruim / é a forma masculina singular
 - lourd: pesado
 - parfaite: perfeito
 - froid: fria
@@ -63,8 +68,12 @@ poison: peixe
 - petit: pequeno
 - petite: pequeno  com feminino antes
 - gâteau: bolo
-- parfait: perfeito
-- parfaite: perfeito com feminino antes
+- parfait: perfeito / é a forma masculina singular
+- parfaite: perfeito / é a forma feminina singular
+- gros: grande / é a forma masculina singular
+- grose: grande / é a forma feminina singular
+
+
 > Se a palavra termina com consoante o feminino adiciona e
 
 
