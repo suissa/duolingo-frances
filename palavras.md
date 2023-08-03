@@ -37,9 +37,11 @@
 - singe: macaco
 - ours: urso
 - canard: pato
+- patte: pata
 - oiseau: pássaro
 - cheval: cavalo
 - cochon: porco
+- un écrou: uma pata
 - mouche: mosca
 - tortue: tartaruga
 - lion: leão
