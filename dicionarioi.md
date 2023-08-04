@@ -1,5 +1,18 @@
 # Palavras em francês
 
+
+- nm: substantivo masculino
+- nf: substantivo feminino
+- npl: substantivo plural
+- v: verbo
+- vi: verbo intransitivo
+- vt: verbo transitivo
+- adj: adjetivo
+- adv: advérbio
+- prep: preposição
+- conj: conjunção
+- pron: pronome
+
 > ʒ é j ou g
 
 **a.bor.der** [abutin] *vt*. **1** Naut abalroar, abordar **2** enforcar. 
