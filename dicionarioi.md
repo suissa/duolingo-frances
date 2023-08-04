@@ -1,5 +1,7 @@
 # Palavras em francês
 
+> ʒ é j ou g
+
 **a.bor.der** [abutin] *vt*. **1** Naut abalroar, abordar **2** enforcar. 
 **aborder quelqu`un** dirigir a palavraa alguém que não se conhece.
 
@@ -8,7 +10,7 @@
 
 **a.bou.tisse.ment** [abutismã] *num* término, resultado, final, termo.
 
-**a.boyer** [abwaje] *vi* **1** ladrar, latir. **2** berrar (qndo se refere a seres humanos)
+**a.boyer** [abwaʒe] *vi* **1** ladrar, latir. **2** berrar (qndo se refere a seres humanos)
 
 **a.bré.ger** [abreze] *vt* abreviar, resumir, encurtar.
 
