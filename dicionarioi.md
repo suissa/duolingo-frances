@@ -15,6 +15,8 @@
 
 > ʒ é j ou g
 
+## A
+
 aborder: **a.bor.der** [abutin] *vt*. **1** Naut abalroar, abordar **2** enforcar. 
 **aborder quelqu`un** dirigir a palavraa alguém que não se conhece.
 
@@ -31,5 +33,5 @@ abreuver: **a.breu.ver** [abrœve] *vt* **1** dar de beber (aos animais)
 
 
 
-**a.bus** [aby] *num* **1**abuso, excesso **2** erro, injustiça.
+abus **a.bus** [aby] *num* **1** abuso, excesso **2** erro, injustiça.
 

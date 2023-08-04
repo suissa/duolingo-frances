@@ -30,6 +30,7 @@
 - fraise: morango
 - sucre: açúcar
 - gâteau: bolo
+- pâtes: massa
 
 
 ### Animais 
@@ -106,6 +107,23 @@
 - excusez-moi: com licença
 
 
+### Cores
+- couleur: cor
+- rouge: vermelho
+- noir: preto
+- jaune: amarelo
+- vert: verde / é a forma masculina singular
+- verte: verde / é a forma feminina singular
+- bleu: azul
+- blanc: branco / é a forma masculina singular
+- blanche: branco / é a forma feminina singular
+- rose: rosa
+- orange: laranja
+- violet: violeta / roxo
+- grise: cinza
+
+
+
 ### Substantivos
 - robes: vestidos
 - livre: livro
@@ -119,18 +137,21 @@
 - puis: então
 - malade: doente
 - allergique: alérgico(a)
-- pâtes: massa
+- couleur: cor
+
+
 
 
 ### Pronomes
 - combien: quanto
-- esse: ce
-- quoi: o quo
+- quoi: o que
 - qu'est-ce: quem é
+- ce: esse
 
 
 ### Roupas
 
+- vêtements: roupas
 - botte: bota
 - chapeau: chapéu
 - chapeaux: chapéus
@@ -144,8 +165,12 @@
 - jupes: saias
 - ceinture: cinto
 - manteau: casaco
-- pantalon: calçs
-
+- pantalon: calças
+- chaussure: sapato
+- manteaux: casaco
+- poche: bolso
+- chemise: camisa
+- jupe: saia
 
 
 
