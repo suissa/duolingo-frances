@@ -98,6 +98,7 @@
 
 
 ### Cumprimentos & outros
+
 - rien: nada / de rien: de nada
 - tard: tarde
 - bonsoir: boa noite
@@ -147,7 +148,9 @@
 - quoi: o que
 - qu'est-ce: quem é
 - ce: esse
-
+- c`: isso
+- porque:
+- du: do
 
 ### Roupas
 
@@ -165,9 +168,9 @@
 - jupes: saias
 - ceinture: cinto
 - manteau: casaco
+- manteaux: casacos
 - pantalon: calças
 - chaussure: sapato
-- manteaux: casaco
 - poche: bolso
 - chemise: camisa
 - jupe: saia
@@ -182,3 +185,9 @@
 - voudrais: gostaria
 - chercher: procurar
 - il y a: tem
+- sont: estão
+- lisent: leem
+- sommes: são
+- nous aimons: amamos
+- vous êtes: vocês são
+- écrivent: escrevem
