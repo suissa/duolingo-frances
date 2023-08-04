@@ -129,6 +129,24 @@
 - qu'est-ce: quem é
 
 
+### Roupas
+
+- botte: bota
+- chapeau: chapéu
+- chapeaux: chapéus
+- chaussettes: meias
+- portefeuille: carteira
+- costume: roupa social
+- jean: jeans
+- veste: jaqueta
+- gant: luva
+- parapluie: guarda-chuva
+- jupes: saias
+- ceinture: cinto
+- manteau: casaco
+- pantalon: calçs
+
+
 
 
 ### Verbos
