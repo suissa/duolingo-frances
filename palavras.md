@@ -55,6 +55,9 @@
 - souris: rato
 - loup: lobo
 - baleine: baleia
+- chat: gatos
+- chien: cachorro
+
 
 
 
@@ -141,9 +144,8 @@
 - couleur: cor
 
 
-
-
 ### Pronomes
+
 - combien: quanto
 - quoi: o que
 - qu'est-ce: quem é
@@ -151,6 +153,14 @@
 - c`: isso
 - porque:
 - du: do
+- mon: meu
+- ma: meu
+- sa: seu
+- ton: teu/seu
+- son: seu
+- ta: seu/tua/sua
+- leur: deles / o ... deles / a ... deles
+
 
 ### Roupas
 
@@ -174,6 +184,8 @@
 - poche: bolso
 - chemise: camisa
 - jupe: saia
+- costume: terno
+- sac: bolsa
 
 
 
@@ -191,3 +203,4 @@
 - nous aimons: amamos
 - vous êtes: vocês são
 - écrivent: escrevem
+- avons: temos
