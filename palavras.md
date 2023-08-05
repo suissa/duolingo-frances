@@ -217,3 +217,9 @@
 - [ils] ach`etent: compram / estão comprando
 - [nous] achetons: compramos
 - [nous] allons: vamos
+- [nous] apprenons: aprendemos / estamos aprendendo
+- [il] attend: (ele/ela) espera / (ele/ela) está esperando
+- [tu] connais: (você) conhece / (tu) conheces / sabe
+- [ça] commence: (ele/ela) começa / está começando / inicia / está iniciando / (eu) começo / estou começando
+- [je] commande: peço (no restaurante) / ordeno / estou ordenando / comando / estou comandando / ordem
+- [je] cherche: (eu) procuro / (eu) busco / estou procurando
