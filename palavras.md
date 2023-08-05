@@ -143,6 +143,7 @@
 - allergique: alérgico(a)
 - couleur: cor
 - [le] soleil: sol
+- [le] ciel: céu
 
 
 ### Pronomes
