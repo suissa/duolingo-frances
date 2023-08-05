@@ -212,6 +212,8 @@
 - [il] appelle: chama / está chamando / liga / está ligando / telefona para ele
 - [elle] adore: (ele/ela) adora / (eu) adoro / gosto de
 - [il] apporte: (ele/ela) traz / (ele/ela) leva / dá
+- [je] fais: faço / estou fazendo
 - [Vous] faites: fazem / faz / faça
 - [ils] ach`etent: compram / estão comprando
-
+- [nous] achetons: compramos
+- [nous] allons: vamos
