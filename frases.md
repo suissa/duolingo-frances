@@ -12,3 +12,6 @@ Feliz de ter te conhecido.
 Quel est ton Facebook? Quel ets votre Facebook
 Qual é seu Facebook?     // mais 
 
+Le soleil est dans le ciel. 
+O sol está no céu.
+

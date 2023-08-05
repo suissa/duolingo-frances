@@ -142,6 +142,7 @@
 - malade: doente
 - allergique: alérgico(a)
 - couleur: cor
+- [le] soleil: sol
 
 
 ### Pronomes
@@ -186,7 +187,7 @@
 - chemise: camisa
 - jupe: saia
 - costume: terno
-- sac: bolsa
+- [le] sac: bolsa
 
 
 
