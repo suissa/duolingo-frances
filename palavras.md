@@ -173,6 +173,7 @@
 - costume: roupa social
 - jean: jeans
 - veste: jaqueta
+- blouson: jaqueta
 - gant: luva
 - parapluie: guarda-chuva
 - jupes: saias
