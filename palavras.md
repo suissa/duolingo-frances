@@ -157,7 +157,7 @@
 - du: do
 - mon: meu
 - ma: meu
-- sa: seu
+- sa: sua / dele
 - ton: teu/seu
 - son: seu
 - ta: seu/tua/sua
@@ -207,3 +207,11 @@
 - vous êtes: vocês são
 - écrivent: escrevem
 - avons: temos
+- [je] vai: eu vou/ eu estou indo, for
+- [il] aide: ajuda, está ajudando / estou ajudando
+- [il] appelle: chama / está chamando / liga / está ligando / telefona para ele
+- [elle] adore: (ele/ela) adora / (eu) adoro / gosto de
+- [il] apporte: (ele/ela) traz / (ele/ela) leva / dá
+- [Vous] faites: fazem / faz / faça
+- [ils] ach`etent: compram / estão comprando
+
