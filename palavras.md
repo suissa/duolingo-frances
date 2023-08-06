@@ -148,7 +148,7 @@
 
 ### Pronomes
 
-- combien: quanto
+- porquoi: por quê / por que
 - quoi: o que
 - qu'est-ce: quem é
 - ce: esse
@@ -162,6 +162,15 @@
 - son: seu
 - ta: seu/tua/sua
 - leur: deles / o ... deles / a ... deles
+- quoi [kwa]: o que / o quê
+- 
+
+
+### Advérbios
+- o`u [u]: onde
+- quand [kã]: quando
+- combien [kumbiã]: quanto
+- comment [komã]: como
 
 
 ### Roupas
@@ -207,25 +216,25 @@
 - vous êtes: vocês são
 - écrivent: escrevem
 - avons: temos
-- [je] vai: eu vou/ eu estou indo, for
-- [il] aide: ajuda, está ajudando / estou ajudando
-- [il] appelle: chama / está chamando / liga / está ligando / telefona para ele
-- [elle] adore: (ele/ela) adora / (eu) adoro / gosto de
-- [il] apporte: (ele/ela) traz / (ele/ela) leva / dá
-- [je] fais: faço / estou fazendo
-- [Vous] faites: fazem / faz / faça
-- [ils] ach`etent: compram / estão comprando
-- [nous] achetons: compramos
-- [nous] allons: vamos
-- [je] apprends: aprendo
-- [nous] apprenons: aprendemos / estamos aprendendo
-- [il] attend: (ele/ela) espera / (ele/ela) está esperando
-- [tu] connais: (você) conhece / (tu) conheces / sabe
-- [il] connaît: conheceß
-- [ça] commence: (ele/ela) começa / está começando / inicia / está iniciando / (eu) começo / estou começando
-- [je] commande: peço (no restaurante) / ordeno / estou ordenando / comando / estou comandando / ordem
-- [je] cherche: (eu) procuro / (eu) busco / estou procurando
-- [vous] cherchez: 
-- [tu] as: (você) está com / tem / tens
-- [je] ai: tenho
-- [il] peut: pode
+- (je) vai: eu vou/ eu estou indo, for
+- (il) aide: ajuda, está ajudando / estou ajudando
+- (il) appelle: chama / está chamando / liga / está ligando / telefona para ele
+- (elle) adore: (ele/ela) adora / (eu) adoro / gosto de
+- (il) apporte: (ele/ela) traz / (ele/ela) leva / dá
+- (je) fais: faço / estou fazendo
+- (Vous) faites: fazem / faz / faça
+- (ils) ach`etent: compram / estão comprando
+- (nous) achetons: compramos
+- (nous) allons: vamos
+- (je) apprends: aprendo
+- (nous) apprenons: aprendemos / estamos aprendendo
+- (il) attend: (ele/ela) espera / (ele/ela) está esperando
+- (tu) connais: (você) conhece / (tu) conheces / sabe
+- (il) connaît: conheceß
+- (ça) commence: (ele/ela) começa / está começando / inicia / está iniciando / (eu) começo / estou começando
+- (je) commande: peço (no restaurante) / ordeno / estou ordenando / comando / estou comandando / ordem
+- (je) cherche: (eu) procuro / (eu) busco / estou procurando
+- (vous) cherchez: 
+- (tu) as: (você) está com / tem / tens
+- (je) ai: tenho
+- (il) peut: pode

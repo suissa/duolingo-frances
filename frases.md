@@ -20,3 +20,8 @@ O sol está no céu.
 
 ## Perguntas
 
+O`u?
+Onde?
+
+Il mange ma nourriture, porquoi?
+Ele está comando minha comida, por quê?
