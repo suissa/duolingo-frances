@@ -1,3 +1,5 @@
+# Frases
+
 Pui-je essayer?<br>
 Eu posso experimentar?<br>
 **CUIDADO: PARA COMIDA - puis-je goûter**
@@ -14,4 +16,7 @@ Qual é seu Facebook?     // mais
 
 Le soleil est dans le ciel. 
 O sol está no céu.
+
+
+## Perguntas
 
