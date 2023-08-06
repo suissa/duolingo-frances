@@ -1,5 +1,8 @@
 # Frases
 
+Est-ce que / **mto usada no começo de interrogativas**
+É isso
+
 Pui-je essayer?<br>
 Eu posso experimentar?<br>
 **CUIDADO: PARA COMIDA - puis-je goûter**
@@ -43,4 +46,13 @@ Que horas são?
 
 Des lettres, lesquelles?
 Cartas, quais?
+
+Qu`est-ce que je suis?
+O que eu sou?
+
+Quelles sont mes recettes?
+Quais são minhas receitas?
+
+Qui suis je?
+Quem sou eu?
 

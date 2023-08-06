@@ -164,17 +164,19 @@
 - ta: seu/tua/sua
 - leur: deles / o ... deles / a ... deles
 - quoi [kwa]: o que / o quê
-- 
+- que [q]: que
+- qui [ki]: quem / que
+- quelle [kele]: qual /que
+- quel [ke]: qual
+- lesquelles [lêkel]: quais / as quais
 
 
-### Advérbios
+### Advérbios Interrogativos
+
 - o`u [u]: onde
 - quand [kã]: quando
 - combien [kumbiã]: quanto
 - comment [komã]: como
-- quelle [kele]: qual /que
-- quel [ke]: qual
-- lesquelles [lêkel]: quais / as quais
 
 
 ### Roupas
@@ -242,3 +244,9 @@
 - (tu) as: (você) está com / tem / tens
 - (je) ai: tenho
 - (il) peut: pode
+
+- parlon
+
+- je peax
+- tu peaux: vc pode
+il peut: pode
