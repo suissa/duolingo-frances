@@ -171,7 +171,7 @@
 - quand [kã]: quando
 - combien [kumbiã]: quanto
 - comment [komã]: como
-- quelle [kele]: qual
+- quelle [kele]: qual /que
 - quel [ke]: qual
 
 

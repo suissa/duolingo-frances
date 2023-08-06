@@ -31,3 +31,7 @@ Quando, porquê e como?
 
 Combien sont-ils?
 Quantos são?
+
+Quelle robe?
+Qual vestido?
+
