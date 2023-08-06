@@ -25,3 +25,6 @@ Onde?
 
 Il mange ma nourriture, porquoi?
 Ele está comando minha comida, por quê?
+
+Quand, porquoi et comment?
+Quando, por que e como?
