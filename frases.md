@@ -27,4 +27,7 @@ Il mange ma nourriture, porquoi?
 Ele está comando minha comida, por quê?
 
 Quand, porquoi et comment?
-Quando, por que e como?
+Quando, porquê e como?
+
+Combien sont-ils?
+Quantos são?
