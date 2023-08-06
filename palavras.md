@@ -171,6 +171,8 @@
 - quand [kã]: quando
 - combien [kumbiã]: quanto
 - comment [komã]: como
+- quelle [kele]: qual
+- quel [ke]: qual
 
 
 ### Roupas
@@ -209,7 +211,7 @@
 - voudrais: gostaria
 - chercher: procurar
 - il y a: tem
-- sont: estão
+- sont [son]: estão / são
 - lisent: leem
 - sommes: são
 - nous aimons: amamos
