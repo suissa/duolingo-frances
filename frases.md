@@ -41,3 +41,6 @@ Que dia é hoje?
 Quelle heure est-il?
 Que horas são?
 
+Des lettres, lesquelles?
+Cartas, quais?
+
