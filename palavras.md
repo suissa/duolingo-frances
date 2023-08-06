@@ -142,8 +142,9 @@
 - malade: doente
 - allergique: alérgico(a)
 - couleur: cor
-- [le] soleil: sol
-- [le] ciel: céu
+- (le) soleil: sol
+- (le) ciel: céu
+- (la) heure [ær]: 
 
 
 ### Pronomes
@@ -173,6 +174,7 @@
 - comment [komã]: como
 - quelle [kele]: qual /que
 - quel [ke]: qual
+- lesquelles [lêkel]: quais / as quais
 
 
 ### Roupas

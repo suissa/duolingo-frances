@@ -35,3 +35,9 @@ Quantos são?
 Quelle robe?
 Qual vestido?
 
+Quel jour sommes-nous?
+Que dia é hoje?
+
+Quelle heure est-il?
+Que horas são?
+
