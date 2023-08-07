@@ -165,6 +165,7 @@
 - ma: meu
 - sa: sua / dele
 - ton: teu/seu
+- tiens: teus
 - son: seu
 - ta: seu/tua/sua
 - notre: nosso
@@ -290,6 +291,7 @@
 - prends [pren]: pego
 - mettent: vestem
 - met: coloca
+- meurs [meur]: morro / estou morrendo
 - meurt [meurre]: morre / está morrendo
 - marche [marxe]: caminha / está caminhando / anda / está andando / funciona
 - marchent [marxe]: andam
@@ -317,5 +319,10 @@
 - (il) vend [vend]: vende / está vendendo
 - (ils) vendent [vãnd]: vendem / estão vendendo
 - (je) visit: visito / estou visitando / visita
-- (nous) dormons: dormimos / estamos dormindo
 - (elle) améliore: (ele/ela) melhora / melhora / (eu) melhoro
+- dort [dór]: dorme
+- (je) dors [dór]: durmo
+- (nous) dormons: dormimos / estamos dormindo
+- (vous) avez [ave]: têm
+- (il) regarde [regardê]: (ele/ela) olha / (ele/ela) está olhando / (eu) vejo
+- (nous) regardons [regardon]: olhamos
