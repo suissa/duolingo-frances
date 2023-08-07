@@ -253,6 +253,7 @@
 - (je) peax: posso
 - (tu) peux: (vc) pode
 - (il) peut: (ele )pode
+- (nous) pouvons [puvon]: podemos
 
 - j´agis: eu ajo / atuo
 - agit [aji]: agir
@@ -276,3 +277,4 @@
 - (il) entre [ãntrê]: entra / está entrando / entre
 - (il) disent [dize]: dizem / estão dizendo
 - (il) donne [done]: dá / dou / dê
+- (il) lance [lãnce]: joga / está jogando / lança
