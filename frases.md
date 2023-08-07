@@ -59,3 +59,6 @@ Quem sou eu?
 Ai-je mes lettres?
 Eu tenho as minhas cartas?
 
+Je n`ai que deux manteaux.
+Eu só tenho dois casacos.
+
