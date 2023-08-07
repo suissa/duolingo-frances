@@ -148,6 +148,7 @@
 - (le) soleil: sol
 - (le) ciel: céu
 - (la) heure [ær]: 
+- montre: relógio
 
 
 ### Pronomes
@@ -281,3 +282,8 @@
 - (il) disent [dize]: dizem / estão dizendo
 - (il) donne [done]: dá / dou / dê
 - (il) lance [lãnce]: joga / está jogando / lança
+
+- suit [sui]: segue
+- prend [pren]: pega
+- mettent: vestem
+- met: coloca
