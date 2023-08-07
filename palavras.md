@@ -149,6 +149,7 @@
 - (le) ciel: céu
 - (la) heure [ær]: 
 - montre: relógio
+- photographies: fotografias / fotos
 
 
 ### Pronomes
@@ -285,6 +286,7 @@
 
 - suit [sui]: segue
 - prend [pren]: pega
+- prends [pren]: pego
 - mettent: vestem
 - met: coloca
 - meurt [meurre]: morre / está morrendo
@@ -298,3 +300,9 @@
 - (il) pleut [plê]: chove / está chovendo
 - (il) ouvre [uvre]: abre / abrimos / abro
 - (elle) perd [pérd]: perde / está perdendo
+- offres [off]: oferece
+- (je) photographie: fotografo
+- (il) poss`ede: possui / tem
+- (je) tiens [tiã]: seguro / tenho / seus
+- (il) propose [proproze]: propõe / está propondo / oferece / está oferecendo
+- (tu) portes [pórt]: leva / carregs / usa
