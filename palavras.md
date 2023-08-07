@@ -150,7 +150,7 @@
 ### Pronomes
 
 - porquoi: por quê / por que
-- quoi: o que
+- quoi [kua]: o que
 - qu'est-ce: quem é
 - ce: esse
 - c`: isso
@@ -245,8 +245,13 @@
 - (je) ai: tenho
 - (il) peut: pode
 
-- parlon
+- parler: falar
+- parlon: vamos conversar
 
-- je peax
-- tu peaux: vc pode
-il peut: pode
+- (je) peax: posso
+- (tu) peux: (vc) pode
+- (il) peut: (ele )pode
+
+- j´agis: eu ajo / atuo
+
+- (je) crois: acredito / estoou acreditando / creio / estou crendo / acho

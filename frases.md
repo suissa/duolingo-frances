@@ -56,3 +56,6 @@ Quais são minhas receitas?
 Qui suis je?
 Quem sou eu?
 
+Ai-je mes lettres?
+Eu tenho as minhas cartas?
+
