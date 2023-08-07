@@ -284,7 +284,7 @@
 - (il) donne [done]: dá / dou / dê
 - (il) lance [lãnce]: joga / está jogando / lança
 
-- suit [sui]: segue
+- suit [sui]: segue / está seguindo
 - prend [pren]: pega
 - prends [pren]: pego
 - mettent: vestem
@@ -309,3 +309,5 @@
 - (elles) portent:
 - (nous) portons
 - (elle) voit [vuá]: (ele/ela) vê / está vendo
+- (ils) trouvent [truvê]: encontram / acham / estão encontrando
+- (je) veux [vu]: quero / estou querendo / quiseres 
