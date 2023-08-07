@@ -317,3 +317,4 @@
 - (il) vend [vend]: vende / está vendendo
 - (ils) vendent [vãnd]: vendem / estão vendendo
 - (je) visit: visito / estou visitando / visita
+- (nous) dormons: dormimos / estamos dormindo
