@@ -310,7 +310,10 @@
 - (elles) portent:
 - (nous) portons
 - (elle) voit [vuá]: (ele/ela) vê / está vendo
+- (nous) voyons: vemos
 - (ils) trouvent [truvê]: encontram / acham / estão encontrando
 - (je) veux [vu]: quero / estou querendo / quiseres 
+- (vous) voulez [vulê]: querem / desejam
 - (il) vend [vend]: vende / está vendendo
 - (ils) vendent [vãnd]: vendem / estão vendendo
+- (je) visit: visito / estou visitando / visita
