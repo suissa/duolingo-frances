@@ -112,8 +112,8 @@
 
 
 ### Cores
-- couleur: cor
-- rouge: vermelho
+- couleur [kuler]: cor
+- rouge [ruge]: vermelho
 - noir: preto
 - jaune: amarelo
 - vert: verde / é a forma masculina singular
@@ -124,6 +124,7 @@
 - rose: rosa
 - orange: laranja
 - violet: violeta / roxo
+- gris [gri]: cinza
 - grise: cinza
 
 
@@ -132,7 +133,7 @@
 - robes: vestidos
 - livre: livro
 - lettre: carta
-- cuisine: cozinha
+- cuisine [kucine]: cozinha
 - mot: palavra
 - mot de passe: senha
 - m´aider: me ajude
@@ -253,9 +254,10 @@
 - (il) peut: (ele )pode
 
 - j´agis: eu ajo / atuo
+- agit [aji]: agir
 
 - (je) crois [kroa]: acredito / estoou acreditando / creio / estou crendo / acho
-- (il) court [kor]: corre / está correndo / curto
+- (il) court [kur]: corre / está correndo / curto
 
 - (elle) coupe [kupe]: corta / está cortando / corto / estou cortando
 - (il) respecte [respect]: respeita / está respeitando / respeito
