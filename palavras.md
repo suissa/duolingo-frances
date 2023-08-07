@@ -248,6 +248,7 @@
 - (tu) as: (você) está com / tem / tens
 - (je) ai: tenho
 - (je) sais: sei
+- (elle) trouve: encontra
 
 - parler: falar
 - parlon: vamos conversar
