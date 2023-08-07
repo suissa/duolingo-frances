@@ -254,4 +254,9 @@
 
 - j´agis: eu ajo / atuo
 
-- (je) crois: acredito / estoou acreditando / creio / estou crendo / acho
+- (je) crois [kroa]: acredito / estoou acreditando / creio / estou crendo / acho
+- (il) court [kor]: corre / está correndo / curto
+
+- (elle) coupe [kupe]: corta / está cortando / corto / estou cortando
+- (il) respecte [respect]: respeita / está respeitando / respeito
+- contient [kontiã]: contém / tem / contêm
