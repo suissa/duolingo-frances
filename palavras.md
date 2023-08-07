@@ -270,3 +270,7 @@
 - (nous) courrons: corremos
 - (vous) courez: correm
 - (ils) courent: correm
+
+- (il) gagne [ganhe]: ganha / está ganhando / ganho / estou ganhando
+- (il) finit [fini]: termina / está terminando / acaba
+- (il) entre: entra / está entrando / entre
