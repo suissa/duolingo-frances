@@ -39,7 +39,7 @@
 - ours: urso
 - canard: pato
 - patte: pata
-- oiseau: pássaro
+- oiseau [uazo]: pássaro
 - cheval: cavalo
 - cochon: porco
 - un écrou: uma pata
@@ -66,7 +66,7 @@
 - rouge: vermelho
 - noir: preto
 - nouvelle: nova
-- seul: sozinho
+- seul [sol]: sozinho
 - seule: sozinha
 - fort: forte
 - chaud: quente
@@ -130,10 +130,12 @@
 
 
 ### Substantivos
+
+- eau [o]: água
 - robes: vestidos
 - livre: livro
 - lettre: carta
-- cuisine [kucine]: cozinha
+- cuisine [kuicine]: cozinha
 - mot: palavra
 - mot de passe: senha
 - m´aider: me ajude
@@ -196,7 +198,7 @@
 - parapluie: guarda-chuva
 - jupes: saias
 - ceinture: cinto
-- manteau: casaco
+- manteau [montô]: casaco
 - manteaux: casacos
 - pantalon: calças
 - chaussure: sapato
@@ -244,7 +246,6 @@
 - (vous) cherchez: 
 - (tu) as: (você) está com / tem / tens
 - (je) ai: tenho
-- (il) peut: pode
 
 - parler: falar
 - parlon: vamos conversar
@@ -262,3 +263,10 @@
 - (elle) coupe [kupe]: corta / está cortando / corto / estou cortando
 - (il) respecte [respect]: respeita / está respeitando / respeito
 - contient [kontiã]: contém / tem / contêm
+
+- (je) bois: eu bebo [bua]
+- (je/tu) cours [curs]: corre
+- (il/elle) court: corre
+- (nous) courrons: corremos
+- (vous) courez: correm
+- (ils) courent: correm
