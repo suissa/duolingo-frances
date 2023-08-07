@@ -273,4 +273,5 @@
 
 - (il) gagne [ganhe]: ganha / está ganhando / ganho / estou ganhando
 - (il) finit [fini]: termina / está terminando / acaba
-- (il) entre: entra / está entrando / entre
+- (il) entre [ãntrê]: entra / está entrando / entre
+- (il) disent [diz]: dizem / estão dizendo
