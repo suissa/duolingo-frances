@@ -306,3 +306,6 @@
 - (je) tiens [tiã]: seguro / tenho / seus
 - (il) propose [proproze]: propõe / está propondo / oferece / está oferecendo
 - (tu) portes [pórt]: leva / carregs / usa
+- (elles) portent:
+- (nous) portons
+- (elle) voit [vuá]: (ele/ela) vê / está vendo
