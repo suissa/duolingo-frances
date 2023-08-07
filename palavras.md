@@ -250,7 +250,7 @@
 - (tu) as: (você) está com / tem / tens
 - (je) ai: tenho
 - (je) sais: sei
-- (elle) trouve: encontra
+- (elle/il) trouve: encontra
 
 - parler: falar
 - parlon: vamos conversar
@@ -312,3 +312,5 @@
 - (elle) voit [vuá]: (ele/ela) vê / está vendo
 - (ils) trouvent [truvê]: encontram / acham / estão encontrando
 - (je) veux [vu]: quero / estou querendo / quiseres 
+- (il) vend [vend]: vende / está vendendo
+- (ils) vendent [vãnd]: vendem / estão vendendo
