@@ -165,6 +165,7 @@
 - ton: teu/seu
 - son: seu
 - ta: seu/tua/sua
+- notre: nosso
 - leur: deles / o ... deles / a ... deles
 - quoi [kwa]: o que / o quê
 - que [q]: que
