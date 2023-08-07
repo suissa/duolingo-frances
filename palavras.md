@@ -261,11 +261,12 @@
 - (il) peut: (ele )pode
 - (nous) pouvons [puvon]: podemos
 
-- j´agis: eu ajo / atuo
+- j´agis [jagi]: eu ajo / atuo
 - agit [aji]: agir
 
 - (je) crois [kroa]: acredito / estoou acreditando / creio / estou crendo / acho
 - (il) court [kur]: corre / está correndo / curto
+- (tu) cours
 
 - (elle) coupe [kupe]: corta / está cortando / corto / estou cortando
 - (il) respecte [respect]: respeita / está respeitando / respeito
