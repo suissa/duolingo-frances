@@ -247,6 +247,7 @@
 - (vous) cherchez: 
 - (tu) as: (você) está com / tem / tens
 - (je) ai: tenho
+- (je) sais: sei
 
 - parler: falar
 - parlon: vamos conversar
