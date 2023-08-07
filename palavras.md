@@ -297,3 +297,4 @@
 - mettent [méte]: vestem / põem / colocam 
 - (il) pleut [plê]: chove / está chovendo
 - (il) ouvre [uvre]: abre / abrimos / abro
+- (elle) perd [pérd]: perde / está perdendo
