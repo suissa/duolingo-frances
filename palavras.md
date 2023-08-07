@@ -287,3 +287,10 @@
 - prend [pren]: pega
 - mettent: vestem
 - met: coloca
+- meurt [meurre]: morre / está morrendo
+- marche [marxe]: caminha / está caminhando / anda / está andando / funciona
+- (elle) mérite [mérriti]: merece / está merecendo
+- (il) montre: mostra / está mostrando / apresenta / está apresentando / relógio (de pulso)
+- (tu) caches [cáxe]: esconde / está escondendo
+- lave [láve]: (ele/ela) lava / está lavando / (eu) lavo/ estou lavando
+- mettent [méte]: vestem / põem / colocam 
