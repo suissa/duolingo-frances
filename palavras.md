@@ -101,6 +101,7 @@
 - longue: longa / comprida / longo
 - bien: bem / bom / boa
 - premier: primeiro
+- second: segundo
 - vraie: verdade
 - bonnes: boas / gostosas
 - moyen: médio / meio / média
@@ -110,6 +111,9 @@
 - dernier: último
 - pauvre: pobre / coitado
 - français: francês
+- difficile [dificil]: difícil
+- simple: simples
+
 
 
 
