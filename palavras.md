@@ -128,6 +128,7 @@
 - chinois [chinoá]: chinês
 - chinoise [chinoáze]: chinesa
 - allemand [almon]: alemão
+- américain [amérrican]: americano / estaduniense
 - difficile [dificil]: difícil
 - simple(s): simples
 - impossible [ãnpocible]: impossível
@@ -161,7 +162,18 @@
 - énorme [enorme]: enorme
 - sympa [sampá]: simpático / divertido / legal
 - nu [niu]: nu
+- nue [niu]: nua
 - prêt [prré]: pronto
+- sèche seche [séxe]: seco / seca
+- sérieux [sérriê]: sério / sérios / séria
+- gentille [jantilê]: gentil / legal / bom
+- gentils [gentil]: gentis
+- sec [séc]: seco
+- génial [genial]: genial / impressionante / incrivel
+- bas [bá]: baixo / baixa / meias
+- tard [tar]: tarde
+- bonnes [bone]: boas / gostosas
+
 
 
 ### Cumprimentos & outros
