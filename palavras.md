@@ -134,6 +134,8 @@
 - dure [dur]: dura / difícil
 - grave [grav]: grave
 - fous [fu]: loucos
+- naturel [naturrel]: natural
+- étrange [etrange]: estranho / estranha
 
 ### Cumprimentos & outros
 
