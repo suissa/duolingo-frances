@@ -111,6 +111,7 @@
 - dernier: último
 - pauvre: pobre / coitado
 - français: francês
+- (la) française: francês
 - difficile [dificil]: difícil
 - simple: simples
 
