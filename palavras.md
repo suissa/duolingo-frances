@@ -136,6 +136,8 @@
 - fous [fu]: loucos
 - naturel [naturrel]: natural
 - étrange [etrange]: estranho / estranha
+- sombre [sombr]: escuro / escura
+- enti`ere entiere [antiérr]: inteira / toda / todo
 
 ### Cumprimentos & outros
 
