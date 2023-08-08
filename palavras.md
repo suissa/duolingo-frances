@@ -107,7 +107,8 @@
 - beau: belo / bonito / lindo
 - belles: belas / bonitas / lindas
 - derni`eres: últimas
-
+- dernier: último
+- pauvre: pobre / coitado
 
 
 
@@ -162,6 +163,7 @@
 - montre: relógio
 - photographies: fotografias / fotos
 - sûr: certeza / seguro / certo
+- (vous) sûrs: seguros
 
 ### Pronomes
 
