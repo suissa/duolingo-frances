@@ -117,6 +117,14 @@
 - (la) française: francês
 - japonais : japonês / japoneses
 - japonaise: japonesa
+- italien [italiãn]: italiano
+- européen [eurropean]: europeu
+- européennes [eurropeane]: europeias
+- anglais [anglê]: inglês / ingleses
+- africaine [africane]: africana
+- espagnoles [espanhol]: espanholas
+- chinois [chinoá]: chinês
+- chinoise [chinoáze]: chinesa
 - difficile [dificil]: difícil
 - simple(s): simples
 - impossible [ãnpocible]: impossível
@@ -148,7 +156,7 @@
 - nul [nil]: inútil / inapto / incompetente
 - méchant [mexan]: malvado / mau / maldoso
 - énorme [enorme]: enorme
-
+- sympa [sampá]: simpático / divertido / legal
 
 
 ### Cumprimentos & outros
