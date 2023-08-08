@@ -103,14 +103,14 @@
 - bien: bem / bom / boa
 - premier: primeiro
 - second: segundo
-- deuxi`eme deuxieme [deziéme]: segundo / segunda
-- troisi`eme troisieme [troazieme]: terceiro / terceira / terça
+- deuxième deuxieme [deziéme]: segundo / segunda
+- troisième troisieme [troazieme]: terceiro / terceira / terça
 - vraie: verdade
 - bonnes: boas / gostosas
 - moyen: médio / meio / média
 - beau: belo / bonito / lindo
 - belles: belas / bonitas / lindas
-- derni`eres dernieres: últimas
+- dernières dernieres: últimas
 - dernier: último
 - pauvre: pobre / coitado
 - français: francês
@@ -126,18 +126,27 @@
 - franc [fran]: franco / sincero
 - faible [féble]: fraco / fraca / maldade (sentido figurado)
 - rapide [rápîde]: rápido / rápida
-- ch`ere chere: querida / cara
+- chère chere: querida / cara
 - courte [curte]: curto / curta
 - clair [clér]: claro
 - claire [clérre]: claro / clara / comprensível (sentido figurado)
 - franc [fron]: franco
 - dure [dur]: dura / difícil
 - grave [grav]: grave
+- fou [fu]: louco
 - fous [fu]: loucos
 - naturel [naturrel]: natural
 - étrange [etrange]: estranho / estranha
 - sombre [sombr]: escuro / escura
-- enti`ere entiere [antiérr]: inteira / toda / todo
+- entière entiere [antiérr]: inteira / toda / todo
+- dur: duro
+- bête [bét]: besta / boba / tola
+- laid [léd]: feio
+- drôle [drôle]: engraçado / engraçada / divertido
+- nul [nil]: inútil / inapto / incompetente
+- méchant: malvado / mau
+
+
 
 ### Cumprimentos & outros
 
@@ -278,7 +287,7 @@
 - (il) apporte: (ele/ela) traz / (ele/ela) leva / dá
 - (je) fais: faço / estou fazendo
 - (Vous) faites: fazem / faz / faça
-- (ils) ach`etent achetent: compram / estão comprando
+- (ils) achètent achetent: compram / estão comprando
 - (nous) achetons: compramos
 - (nous) allons: vamos
 - (je) apprends: aprendo
@@ -350,7 +359,7 @@
 - (elle) perd [pérd]: perde / está perdendo
 - offres [off]: oferece
 - (je) photographie: fotografo
-- (il) poss`ede possede: possui / tem
+- (il) possède possede: possui / tem
 - (je) tiens [tiã]: seguro / tenho / seus
 - (il) propose [proproze]: propõe / está propondo / oferece / está oferecendo
 - (tu) portes [pórt]: leva / carregs / usa
