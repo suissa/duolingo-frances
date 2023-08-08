@@ -109,6 +109,7 @@
 - derni`eres: últimas
 - dernier: último
 - pauvre: pobre / coitado
+- français: francês
 
 
 
