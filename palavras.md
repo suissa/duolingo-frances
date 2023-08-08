@@ -69,6 +69,7 @@
 - seul [sol]: sozinho
 - seule: sozinha
 - fort: forte
+- forte [fortê]: forte
 - chaud: quente
 - froid: frio
 - propre: limpo
@@ -102,13 +103,14 @@
 - bien: bem / bom / boa
 - premier: primeiro
 - second: segundo
-- deuxi`eme [deziéme]: segundo / segunda
+- deuxi`eme deuxieme [deziéme]: segundo / segunda
+- troisi`eme troisieme [troazieme]: terceiro / terceira / terça
 - vraie: verdade
 - bonnes: boas / gostosas
 - moyen: médio / meio / média
 - beau: belo / bonito / lindo
 - belles: belas / bonitas / lindas
-- derni`eres: últimas
+- derni`eres dernieres: últimas
 - dernier: último
 - pauvre: pobre / coitado
 - français: francês
@@ -118,6 +120,13 @@
 - impossible [ãnpocible]: impossível
 - nombreux [nonbruê]: numerosos / muitos / muitas
 - malades [malade]: doentes
+- importante [ãnporton]: importante
+- importants [ãnporton]: importantes
+- différentes [diferrante]: diferente
+- franc [fran]: franco / sincero
+- faible [féble]: fraco / fraca / maldade (sentido figurado)
+- rapide [rápîde]: rápido / rápida
+- ch`ere chere: querida / cara
 
 
 
@@ -204,7 +213,7 @@
 
 ### Advérbios Interrogativos
 
-- o`u [u]: onde
+- o`u ou [u]: onde
 - quand [kã]: quando
 - combien [kumbiã]: quanto
 - comment [komã]: como
@@ -260,7 +269,7 @@
 - (il) apporte: (ele/ela) traz / (ele/ela) leva / dá
 - (je) fais: faço / estou fazendo
 - (Vous) faites: fazem / faz / faça
-- (ils) ach`etent: compram / estão comprando
+- (ils) ach`etent achetent: compram / estão comprando
 - (nous) achetons: compramos
 - (nous) allons: vamos
 - (je) apprends: aprendo
@@ -332,7 +341,7 @@
 - (elle) perd [pérd]: perde / está perdendo
 - offres [off]: oferece
 - (je) photographie: fotografo
-- (il) poss`ede: possui / tem
+- (il) poss`ede possede: possui / tem
 - (je) tiens [tiã]: seguro / tenho / seus
 - (il) propose [proproze]: propõe / está propondo / oferece / está oferecendo
 - (tu) portes [pórt]: leva / carregs / usa
