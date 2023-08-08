@@ -132,6 +132,8 @@
 - claire [clérre]: claro / clara / comprensível (sentido figurado)
 - franc [fron]: franco
 - dure [dur]: dura / difícil
+- grave [grav]: grave
+- fous [fu]: loucos
 
 ### Cumprimentos & outros
 
