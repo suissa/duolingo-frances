@@ -102,6 +102,7 @@
 - bien: bem / bom / boa
 - premier: primeiro
 - second: segundo
+- deuxi`eme [deziéme]: segundo / segunda
 - vraie: verdade
 - bonnes: boas / gostosas
 - moyen: médio / meio / média
@@ -113,8 +114,10 @@
 - français: francês
 - (la) française: francês
 - difficile [dificil]: difícil
-- simple: simples
-
+- simple(s): simples
+- impossible [ãnpocible]: impossível
+- nombreux [nonbruê]: numerosos / muitos / muitas
+- malades [malade]: doentes
 
 
 
