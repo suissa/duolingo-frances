@@ -128,8 +128,10 @@
 - rapide [rápîde]: rápido / rápida
 - ch`ere chere: querida / cara
 - courte [curte]: curto / curta
-- claire [clérre]: clara / comprensível (sentido figurado)
-
+- clair [clér]: claro
+- claire [clérre]: claro / clara / comprensível (sentido figurado)
+- franc [fron]: franco
+- dure [dur]: dura / difícil
 
 ### Cumprimentos & outros
 
