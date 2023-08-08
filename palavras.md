@@ -127,7 +127,8 @@
 - faible [féble]: fraco / fraca / maldade (sentido figurado)
 - rapide [rápîde]: rápido / rápida
 - ch`ere chere: querida / cara
-
+- courte [curte]: curto / curta
+- claire [clérre]: clara / comprensível (sentido figurado)
 
 
 ### Cumprimentos & outros
