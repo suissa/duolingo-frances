@@ -62,3 +62,5 @@ Eu tenho as minhas cartas?
 Je n`ai que deux manteaux.
 Eu só tenho dois casacos.
 
+La nuit est longue.
+A noite é longa.

@@ -97,6 +97,17 @@
 - grose: grande / é a forma feminina singular
 - perdu: perdido / é a forma masculina singular
 - perdue: perdida / é a forma feminina singular
+- morte: morta / morrido
+- longue: longa / comprida / longo
+- bien: bem / bom / boa
+- premier: primeiro
+- vraie: verdade
+- bonnes: boas / gostosas
+- moyen: médio / meio / média
+- beau: belo / bonito / lindo
+- belles: belas / bonitas / lindas
+- derni`eres: últimas
+
 
 
 
@@ -150,14 +161,14 @@
 - (la) heure [ær]: 
 - montre: relógio
 - photographies: fotografias / fotos
-
+- sûr: certeza / seguro / certo
 
 ### Pronomes
 
 - porquoi: por quê / por que
 - quoi [kua]: o que
 - qu'est-ce: quem é
-- ce: esse
+- ce / cette: esse / essa / dessa / esta
 - c`: isso
 - porque:
 - du: do
@@ -176,6 +187,8 @@
 - quelle [kele]: qual /que
 - quel [ke]: qual
 - lesquelles [lêkel]: quais / as quais
+- même: mesma / mesmo / até mesmo
+
 
 
 ### Advérbios Interrogativos
@@ -265,7 +278,9 @@
 - agit [aji]: agir
 
 - (je) crois [kroa]: acredito / estoou acreditando / creio / estou crendo / acho
+- (elle) crois
 - (il) court [kur]: corre / está correndo / curto
+
 - (tu) cours
 
 - (elle) coupe [kupe]: corta / está cortando / corto / estou cortando
@@ -288,8 +303,8 @@
 - (il) lance [lãnce]: joga / está jogando / lança
 
 - suit [sui]: segue / está seguindo
-- prend [pren]: pega
-- prends [pren]: pego
+- (il) prend [pren]: pega
+- (je) prends [pren]: pego
 - mettent: vestem
 - met: coloca
 - meurs [meur]: morro / estou morrendo
