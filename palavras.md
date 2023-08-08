@@ -115,6 +115,8 @@
 - pauvre: pobre / coitado
 - français: francês
 - (la) française: francês
+- japonais : japonês / japoneses
+- japonaise: japonesa
 - difficile [dificil]: difícil
 - simple(s): simples
 - impossible [ãnpocible]: impossível
@@ -144,7 +146,8 @@
 - laid [léd]: feio
 - drôle [drôle]: engraçado / engraçada / divertido
 - nul [nil]: inútil / inapto / incompetente
-- méchant: malvado / mau
+- méchant [mexan]: malvado / mau / maldoso
+- énorme [enorme]: enorme
 
 
 
@@ -231,7 +234,7 @@
 
 ### Advérbios Interrogativos
 
-- o`u ou [u]: onde
+- où ou [u]: onde
 - quand [kã]: quando
 - combien [kumbiã]: quanto
 - comment [komã]: como
