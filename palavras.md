@@ -118,13 +118,16 @@
 - japonais : japonês / japoneses
 - japonaise: japonesa
 - italien [italiãn]: italiano
+- italiene [italiãne]: italiana
 - européen [eurropean]: europeu
 - européennes [eurropeane]: europeias
 - anglais [anglê]: inglês / ingleses
+- anglaise [anglêze]: inglesa
 - africaine [africane]: africana
 - espagnoles [espanhol]: espanholas
 - chinois [chinoá]: chinês
 - chinoise [chinoáze]: chinesa
+- allemand [almon]: alemão
 - difficile [dificil]: difícil
 - simple(s): simples
 - impossible [ãnpocible]: impossível
@@ -157,6 +160,8 @@
 - méchant [mexan]: malvado / mau / maldoso
 - énorme [enorme]: enorme
 - sympa [sampá]: simpático / divertido / legal
+- nu [niu]: nu
+- prêt [prré]: pronto
 
 
 ### Cumprimentos & outros
