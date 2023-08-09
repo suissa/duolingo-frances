@@ -167,12 +167,19 @@
 - sèche seche [séxe]: seco / seca
 - sérieux [sérriê]: sério / sérios / séria
 - gentille [jantilê]: gentil / legal / bom
-- gentils [gentil]: gentis
+- gentils [jantil]: gentis
 - sec [séc]: seco
 - génial [genial]: genial / impressionante / incrivel
 - bas [bá]: baixo / baixa / meias
 - tard [tar]: tarde
 - bonnes [bone]: boas / gostosas
+- grand [gran]: grande / altos
+- pure [purrê]: puro / limpo / pura
+- sensible [sancible]: sensível
+- douce [duce]: suave / mansa / doce
+- doux [du]: macio
+
+
 
 
 
@@ -254,6 +261,16 @@
 - quel [ke]: qual
 - lesquelles [lêkel]: quais / as quais
 - même: mesma / mesmo / até mesmo
+- si: se / sim / tanta
+
+
+### Conjunções
+
+- et[e]: e
+- mais [me]: mas
+- ou [o]: ou
+- comme [kanme]: como / igual
+- comment: como / como é
 
 
 
@@ -262,7 +279,11 @@
 - où ou [u]: onde
 - quand [kã]: quando
 - combien [kumbiã]: quanto
-- comment [komã]: como
+
+### Advérbios
+
+- donc [donqui]: e daí / então / daí /portanto
+
 
 
 ### Roupas
@@ -364,10 +385,13 @@
 - (il) finit [fini]: termina / está terminando / acaba
 - (il) termine [tarmine]: termina / está terminando / acaba
 - (il) entre [ãntrê]: entra / está entrando / entre
+- dis
+- dit
+- des
 - (il) disent [dize]: dizem / estão dizendo
 - (il) donne [done]: dá / dou / dê
 - (il) lance [lãnce]: joga / está jogando / lança
-
+- jette: joga
 - suit [sui]: segue / está seguindo
 - (il) prend [pren]: pega
 - (je) prends [pren]: pego
@@ -408,3 +432,5 @@
 - (vous) avez [ave]: têm
 - (il) regarde [regardê]: (ele/ela) olha / (ele/ela) está olhando / (eu) vejo
 - (nous) regardons [regardon]: olhamos
+- (elle) coupe: corta
+- savez: sabe / sabem / sabeis
