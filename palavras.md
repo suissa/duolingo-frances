@@ -289,8 +289,10 @@
 ### Advérbios
 
 - donc [donqui]: e daí / então / daí /portanto
-- Dès [de]: desde / a partir de / assim
 
+### Preposição
+
+- Dès [de]: desde / a partir de / assim
 
 ### Roupas
 
