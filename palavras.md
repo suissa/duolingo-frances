@@ -2,6 +2,11 @@
 
 > Se a palavra termina com consoante o feminino adiciona e
 
+è
+ù
+
+
+
 ### Pessoas
 
 - garçon: garoto
