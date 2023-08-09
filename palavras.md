@@ -377,7 +377,7 @@
 - (nous) pouvons [puvon]: podemos
 
 - j´agis [jagi]: eu ajo / atuo
-- agit [aji]: agir
+- agit [aji]: agir / age
 
 - (je) crois [kroa]: acredito / estoou acreditando / creio / estou crendo / acho
 - (elle) crois
@@ -415,7 +415,7 @@
 - meurs [meur]: morro / estou morrendo
 - meurt [meurre]: morre / está morrendo
 - marche [marxe]: caminha / está caminhando / anda / está andando / funciona
-- marchent [marxe]: andam
+- marchent [marxe]: caminham / andam
 - (elle) mérite [mérriti]: merece / está merecendo
 - (il) montre: mostra / está mostrando / apresenta / está apresentando / relógio (de pulso)
 - (tu) caches [cáxe]: esconde / está escondendo
