@@ -270,9 +270,14 @@
 - et[e]: e
 - mais [me]: mas
 - ou [o]: ou
+- Qu‘: como
 - comme [kanme]: como / igual
 - comment: como / como é
-
+- que [ke]: enquanto / que / com que / o que
+- alors [alor]: enquanto / ao passo que / então / logo
+- sinon [sinom]: senão, caso contrário
+- lorsque [lorske]: quando / enquanto
+- depuis [depui]: desde / desde então / há
 
 
 ### Advérbios Interrogativos
@@ -284,7 +289,7 @@
 ### Advérbios
 
 - donc [donqui]: e daí / então / daí /portanto
-
+- Dès [de]: desde / a partir de / assim
 
 
 ### Roupas
