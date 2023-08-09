@@ -268,7 +268,7 @@
 ### Conjunções
 
 - et[e]: e
-- mais [me]: mas
+- mais [mé]: mas
 - ou [o]: ou
 - Qu‘: como
 - comme [kanme]: como / igual
@@ -278,21 +278,23 @@
 - sinon [sinom]: senão, caso contrário
 - lorsque [lorske]: quando / enquanto
 - depuis [depui]: desde / desde então / há
-
+- pendant [pandan]: enquanto / durante / por
+- car [kar]: porque / pois
 
 ### Advérbios Interrogativos
 
 - où ou [u]: onde
 - quand [kã]: quando
 - combien [kumbiã]: quanto
+- Dès [de]: assim
 
 ### Advérbios
 
-- donc [donqui]: e daí / então / daí /portanto
+- donc [donqui]: e daí / então / daí / portanto
 
 ### Preposição
 
-- Dès [de]: desde / a partir de / assim
+- Dès [de]: desde / a partir de
 
 ### Roupas
 
