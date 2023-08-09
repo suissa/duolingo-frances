@@ -238,6 +238,7 @@
 
 ### Pronomes
 
+- parce [parce]: porque
 - porquoi: por quê / por que
 - quoi [kua]: o que
 - qu'est-ce: quem é
@@ -261,7 +262,7 @@
 - quel [ke]: qual
 - lesquelles [lêkel]: quais / as quais
 - même: mesma / mesmo / até mesmo
-- si: se / sim / tanta
+- s‘ si: se / sim / tanta 
 
 
 ### Conjunções
