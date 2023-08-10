@@ -268,7 +268,9 @@
 - lesquelles [lêkel]: quais / as quais
 - même: mesma / mesmo / até mesmo
 - s‘ si: se / sim / tanta 
-
+- dans [dan]: através
+- malgré [malgrê]: apesar de
+- en [ãn]: fica / é é em / é na /
 
 ### Conjunções
 
@@ -296,6 +298,7 @@
 ### Advérbios
 
 - donc [donqui]: e daí / então / daí / portanto
+- D“apres dapres [dápré]: segundo / de acordo com / conforme
 
 ### Preposição
 
