@@ -331,7 +331,12 @@ Feito de madeira. (Fait de bois.)
 - chez [xe]: a casa dela / em / à casa de / na casa de
 - entre [antre]: entre / entra / está entrando
 - sous [su]: sob
-- 
+- depuis [depui]: desde / deesde então / há
+- contre [contra]: contra / pela / por
+- travers [traver]: através da / através de
+- derrière [dérrier]: atrás de / traeiro
+- selon [celon]: na nossa opinião / de acordo conosco / de acordo com / conforme
+
 
 
 ### Roupas
