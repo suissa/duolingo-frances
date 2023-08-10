@@ -330,6 +330,7 @@ Feito de madeira. (Fait de bois.)
 - vers [ver]: até ela / em direção a / rumo a / para
 - chez [xe]: a casa dela / em / à casa de / na casa de
 - entre [antre]: entre / entra / está entrando
+- sous [su]: sob
 
 
 ### Roupas
