@@ -303,6 +303,24 @@
 ### Preposição
 
 - Dès [de]: desde / a partir de
+- par [par]: por / através / ao
+- au [o]: para / de / ao / com
+"Au" é uma contração da preposição "à" (a) com o artigo definido masculino "le" (o). 
+Ela é usada para indicar direção, movimento ou localização em relação a algo. 
+Alguns exemplos de uso de "au" são:
+
+Vou ao mercado. (Je vais au marché.)
+Estou no restaurante. (Je suis au restaurant.)
+Eles estão indo à festa. (Ils vont à la fête.)
+
+- de [dê]: de / para / com
+"De" é uma preposição que pode ter vários significados, incluindo posse, origem, material, 
+pertencimento, entre outros. Alguns exemplos de uso de "de" são:
+
+O livro do aluno. (Le livre de l'élève.)
+Origem do vinho. (Origine du vin.)
+Feito de madeira. (Fait de bois.)
+
 
 ### Roupas
 
