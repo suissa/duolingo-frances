@@ -302,7 +302,7 @@
 
 - Dès [de]: desde / a partir de
 - par [par]: por / através / ao
-- au [o]: para / de / ao / com
+- au [o]: para / de / ao / com / no
 "Au" é uma contração da preposição "à" (a) com o artigo definido masculino "le" (o). 
 Ela é usada para indicar direção, movimento ou localização em relação a algo. 
 Alguns exemplos de uso de "au" são:
@@ -331,6 +331,7 @@ Feito de madeira. (Fait de bois.)
 - chez [xe]: a casa dela / em / à casa de / na casa de
 - entre [antre]: entre / entra / está entrando
 - sous [su]: sob
+- 
 
 
 ### Roupas
