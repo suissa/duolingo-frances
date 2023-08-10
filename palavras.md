@@ -340,12 +340,13 @@ Feito de madeira. (Fait de bois.)
 - sauf [sof]: exceto / menos
 - parmi [parmí]: entre
 - jusque [juski]: até
+- jusqu'a [jiuska]: até
 - envers [anver]: para com / com / às
 - après [aprê]: após / depois / depois de
 - près [pré]: perto / próximo / fechar
 - delà []: além
 - avant [avon]: antes / antes da / antes de
-
+- côté [côtê]: ao lado de / junto a / lado  
 
 
 ### Roupas
