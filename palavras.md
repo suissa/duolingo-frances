@@ -327,6 +327,9 @@ Feito de madeira. (Fait de bois.)
 - aux [o]: às / para as / os
 - sur [siur]: no / em / sobre
 - sans [san]: sem
+- vers [ver]: até ela / em direção a / rumo a / para
+- chez [xe]: a casa dela / em / à casa de / na casa de
+
 
 ### Roupas
 
