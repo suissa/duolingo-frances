@@ -343,11 +343,16 @@ Feito de madeira. (Fait de bois.)
 - jusqu'a [jiuska]: até
 - envers [anver]: para com / com / às
 - après [aprê]: após / depois / depois de
+- d'après [aprê]: segundo / de acordo com / conforme
 - près [pré]: perto / próximo / fechar
 - delà []: além
 - avant [avon]: antes / antes da / antes de
 - côté [côtê]: ao lado de / junto a / lado  
 - à côté de [a côtê de]: junto à  
+- devant [devan]: diante do / diante da / na frente / em frente
+- cause [coze]: por causa / causa
+- autant [otan]: tantas / tantos / desde que / têm o mesmo tanto / têm a mesma quantidade
+
 
 
 ### Roupas
