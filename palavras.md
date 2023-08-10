@@ -335,7 +335,12 @@ Feito de madeira. (Fait de bois.)
 - contre [contra]: contra / pela / por
 - travers [traver]: através da / através de
 - derrière [dérrier]: atrás de / traeiro
-- selon [celon]: na nossa opinião / de acordo conosco / de acordo com / conforme
+- selon [celon]: segundo / na nossa opinião / de acordo conosco / de acordo com / conforme
+- durant [diurran]: na / durante
+- sauf [sof]: exceto / menos
+- parmi [parmí]: entre
+- jusque [juski]: até
+- envers: para com / com / às
 
 
 
@@ -405,6 +410,7 @@ Feito de madeira. (Fait de bois.)
 - (je) ai: tenho
 - (je) sais: sei
 - (elle/il) trouve: encontra
+- buvez [buvê]: beba / bebam / bebem
 
 - parler: falar
 - parlon: vamos conversar
