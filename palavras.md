@@ -347,6 +347,7 @@ Feito de madeira. (Fait de bois.)
 - delà []: além
 - avant [avon]: antes / antes da / antes de
 - côté [côtê]: ao lado de / junto a / lado  
+- à côté de [a côtê de]: junto à  
 
 
 ### Roupas
