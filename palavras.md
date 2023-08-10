@@ -4,7 +4,7 @@
 
 è
 ù
-
+'
 
 
 ### Pessoas
@@ -298,7 +298,7 @@
 ### Advérbios
 
 - donc [donqui]: e daí / então / daí / portanto
-- D“apres dapres [dápré]: segundo / de acordo com / conforme
+- D'apres dapres [dápré]: segundo / de acordo com / conforme
 
 ### Preposição
 
