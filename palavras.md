@@ -2,6 +2,7 @@
 
 > Se a palavra termina com consoante o feminino adiciona e
 
+à
 è
 ù
 '
@@ -268,9 +269,6 @@
 - lesquelles [lêkel]: quais / as quais
 - même: mesma / mesmo / até mesmo
 - s‘ si: se / sim / tanta 
-- dans [dan]: através
-- malgré [malgrê]: apesar de
-- en [ãn]: fica / é é em / é na /
 
 ### Conjunções
 
@@ -321,6 +319,14 @@ O livro do aluno. (Le livre de l'élève.)
 Origem do vinho. (Origine du vin.)
 Feito de madeira. (Fait de bois.)
 
+- à [a]: quem / de / a / para
+- pour: no / pelo / para o / pela
+- dans [dan]: através / nesse / neste / nesta / em / no / na
+- malgré [malgrê]: apesar de
+- en [ãn]: fica / é é em / é na /
+- aux [o]: às / para as / os
+- sur [siur]: no / em / sobre
+- sans [san]: sem
 
 ### Roupas
 
