@@ -533,3 +533,10 @@ Feito de madeira. (Fait de bois.)
 - fait [fé]: está fazendo / faz
 - allume [alhume]: (ele/ela) acende / (eu) acendo
 - dépend [depan]: depende
+- continue [continue]: (eu) continuo / (ele/ela) continua
+- coûte [cute]: custa
+- combattent [combate]: combatem / brigam / lutam / combatem
+- consiste [conciste]: consiste
+- demande [demande]: pede / peço / estou perguntando
+- démontre [demontre]: (eu) demonstro / (eu) mostro / (eu) provo/comprovo
+
