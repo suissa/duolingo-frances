@@ -557,8 +557,15 @@ Feito de madeira. (Fait de bois.)
 - importent: importam
 - essaie [essê]: (eu) tento / (eu) provo / (eu) estou tentando
 - part [par]: (ele/ela) parte / (ele/ela) se vai / (ele/ela) sai
+- partent: partem
 - passe [pace]: (eu) passo / (ele/ela) passa / ...vale mais que...
+- passes [pace]: (tu) passa
+- passent [pacen]: (eles) passam
 - leve [léve]: (ele/ela) levanta / (eu) levanto
+- levons [levon]: (nós) levantamos
+- ment: está mentindo
 - mentous [mantô]: (nós) mentimos / (nós) estamos mentindo
 - pèse [pez]: (eu) peso / (ele/ela) pesa
-- pense [pance]: (ele/ela) pensa em / (ele/ela) pensa / (ele/ela) pense 
+- pense [pance]: (ele/ela) pensa em / (ele/ela) pensa / (ele/ela) pense
+- manques [manq]: (você) falta / (tu) perdes / (tu) faltas
+- 
