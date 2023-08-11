@@ -240,6 +240,7 @@
 - sûr: certeza / seguro / certo
 - (vous) sûrs: seguros
 - noms [non]: nomes
+- nuit [nui]: noite
 
 ### Pronomes
 
@@ -277,6 +278,7 @@
 - t' te [té]: te / você / tu
 - l' [lê]: o / a / ela
 - on [on]: a gente / é / se
+- parce que: porque sim
 
 
 ### Conjunções
@@ -332,7 +334,8 @@ Feito de madeira. (Fait de bois.)
 - pour: no / pelo / para o / pela
 - dans [dan]: através / nesse / neste / nesta / em / no / na
 - malgré [malgrê]: apesar de
-- en [ãn]: fica / é é em / é na /
+- en [ãn]: fica / é é em / é na / 
+- j en: (eu) estou indo embora / para / daqui a
 - aux [o]: às / para as / os
 - sur [siur]: no / em / sobre
 - sans [san]: sem
@@ -361,7 +364,7 @@ Feito de madeira. (Fait de bois.)
 - devant [devan]: diante do / diante da / na frente / em frente
 - cause [coze]: por causa / causa
 - autant [otan] / ont: tantas / tantos / desde que / têm o mesmo tanto / têm a mesma quantidade
-
+- chose [xuse]: algo / coisa
 
 
 ### Roupas
@@ -516,3 +519,17 @@ Feito de madeira. (Fait de bois.)
 - (elle) coupe: corta
 - savez: sabe / sabem / sabeis
 - boivent [buave]: bebem
+- j'ai ne: eu tenho
+
+- arrive [arrive]: acontece / está acontecendo / está chegando
+- arrivent [arriven]: chegam / estão chegando
+- bronze [bronze]: eu me bronzeio / bronzeia / bronze
+- affirme [afirme]: afirma / (ele/ela) diz
+- l'affirme: afirma-a
+- allume [alume]: (eu) acendo / (ele/ela) acende
+- charge [charge]: carrega
+- branche [branxe]: (ele/ela) conecta
+- appartient [apartian]: pertence
+- fait [fé]: está fazendo / faz
+- allume [alhume]: (ele/ela) acende / (eu) acendo
+- dépend [depan]: depende
