@@ -351,7 +351,7 @@ Feito de madeira. (Fait de bois.)
 - à côté de [a côtê de]: junto à  
 - devant [devan]: diante do / diante da / na frente / em frente
 - cause [coze]: por causa / causa
-- autant [otan]: tantas / tantos / desde que / têm o mesmo tanto / têm a mesma quantidade
+- autant [otan] / ont: tantas / tantos / desde que / têm o mesmo tanto / têm a mesma quantidade
 
 
 
@@ -504,3 +504,4 @@ Feito de madeira. (Fait de bois.)
 - (nous) regardons [regardon]: olhamos
 - (elle) coupe: corta
 - savez: sabe / sabem / sabeis
+- boivent [buave]: bebem
