@@ -119,12 +119,12 @@
 - dernières dernieres: últimas
 - dernier [dernie]: último
 - pauvre: pobre / coitado
-- français: francês
+- français [francê]: francês
 - (la) française: francês
-- japonais : japonês / japoneses
+- japonais [japônné]: japonês / japoneses
 - japonaise: japonesa
 - italien [italiãn]: italiano
-- italiene [italiãne]: italiana
+- italienne [italiãne]: italiana
 - européen [eurropean]: europeu
 - européennes [eurropeane]: europeias
 - anglais [anglê]: inglês / ingleses
@@ -163,7 +163,7 @@
 - bête [bét]: besta / boba / tola
 - laid [léd]: feio
 - drôle [drôle]: engraçado / engraçada / divertido
-- nul [nil]: inútil / inapto / incompetente
+- nul [nul]: inútil / inapto / incompetente
 - méchant [mexan]: malvado / mau / maldoso
 - énorme [enorme]: enorme
 - sympa [sampá]: simpático / divertido / legal
@@ -184,7 +184,6 @@
 - sensible [sancible]: sensível
 - douce [duce]: suave / mansa / doce
 - doux [du]: macio
-
 
 
 
@@ -240,6 +239,7 @@
 - photographies: fotografias / fotos
 - sûr: certeza / seguro / certo
 - (vous) sûrs: seguros
+- noms [non]: nomes
 
 ### Pronomes
 
@@ -267,7 +267,17 @@
 - quel [ke]: qual
 - lesquelles [lêkel]: quais / as quais
 - même: mesma / mesmo / até mesmo
+- moi [moá]: me / mim / eu
+- toi [tuá]: contigo / vocé / ti
+- y [i]: lá / ai / nisso
+- eux [e]: eles
+- lui: eele / ela / a ele
 - s‘ si: se / sim / tanta 
+- m' [mé]: me / por mim
+- t' te [té]: te / você / tu
+- l' [lê]: o / a / ela
+- on [on]: a gente / é / se
+
 
 ### Conjunções
 
@@ -421,9 +431,11 @@ Feito de madeira. (Fait de bois.)
 - (je) sais: sei
 - (elle/il) trouve: encontra
 - buvez [buvê]: beba / bebam / bebem
-
+- y vais: vou
 - parler: falar
 - parlon: vamos conversar
+
+- lui parle: fala com ele
 
 - (je) peax: posso
 - (tu) peux: (vc) pode
@@ -445,7 +457,7 @@ Feito de madeira. (Fait de bois.)
 
 - (je) bois: eu bebo [bua]
 - (je/tu) cours [curs]: corre
-- (il/elle) court: corre
+
 - (nous) courrons: corremos
 - (vous) courez: correm
 - (ils) courent: correm
