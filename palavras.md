@@ -549,6 +549,11 @@ Feito de madeira. (Fait de bois.)
 - échange [exanje]: troco / intercâmbio
 - existe [ekziste]: existe / existo / existem
 - laisse [léce]: deixo / deixa
+- laissent: deixam
 - habite [abitî]: mora / está morando
 - joue [jô]: (eu) jogo / joga / (eu) brinco / (eu) toco (música)
+- explique [ecsplike]: explica
+- importe [anporte]: (eu) importo / (ele/ela) importa
+- importent: importam
+- essaie [essê]: (eu) tento / (eu) provo / (eu) estou tentando
 - 
