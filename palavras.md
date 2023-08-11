@@ -184,6 +184,7 @@
 - sensible [sancible]: sensível
 - douce [duce]: suave / mansa / doce
 - doux [du]: macio
+- dure [dur]: dura / difícil
 
 
 
@@ -535,8 +536,13 @@ Feito de madeira. (Fait de bois.)
 - dépend [depan]: depende
 - continue [continue]: (eu) continuo / (ele/ela) continua
 - coûte [cute]: custa
+- combat [comba]: combate
 - combattent [combate]: combatem / brigam / lutam / combatem
 - consiste [conciste]: consiste
 - demande [demande]: pede / peço / estou perguntando
 - démontre [demontre]: (eu) demonstro / (eu) mostro / (eu) provo/comprovo
-
+- doute []: (ele/ela) duvida / dúvida
+- écoute [ecute]: escuta / escuto / escute
+- descend [dessan]: desce / descende / está descendo
+- (nous) dirigeons: dirigimos / conduzimos
+- dois [duá]: preciso / devo / tenho que / preciso
