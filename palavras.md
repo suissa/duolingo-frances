@@ -259,7 +259,7 @@
 - son: seu
 - ta: seu/tua/sua
 - notre: nosso
-- leur: deles / o ... deles / a ... deles
+- leur: lhes / os / para eles / deles / o ... deles / a ... deles
 - quoi [kwa]: o que / o quê
 - que [q]: que
 - qui [ki]: quem / que
