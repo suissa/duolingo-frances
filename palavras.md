@@ -24,7 +24,7 @@
 - viande carne / de la viande
 - poison: peixe / de lo
 - poulet: frango / de lo
-- thé: chá / de la
+- thé [tê]: chá / de la
 - huile: óleo / de l'huile
 - raisin: uva / de la
 - haricots: feijão / des haricots
@@ -114,10 +114,10 @@
 - vraie: verdade
 - bonnes: boas / gostosas
 - moyen: médio / meio / média
-- beau: belo / bonito / lindo
+- beau [bo]: belo / bonito / lindo
 - belles: belas / bonitas / lindas
 - dernières dernieres: últimas
-- dernier: último
+- dernier [dernie]: último
 - pauvre: pobre / coitado
 - français: francês
 - (la) française: francês
@@ -188,7 +188,6 @@
 
 
 
-
 ### Cumprimentos & outros
 
 - rien: nada / de rien: de nada
@@ -207,14 +206,14 @@
 - jaune: amarelo
 - vert: verde / é a forma masculina singular
 - verte: verde / é a forma feminina singular
-- bleu: azul
-- blanc: branco / é a forma masculina singular
-- blanche: branco / é a forma feminina singular
-- rose: rosa
-- orange: laranja
+- bleu [blu]: azul
+- blanc [blanke]: branco / é a forma masculina singular
+- blanche [blanxe]: branco / é a forma feminina singular
+- rose [rose]: rosa
+- orange [orranje]: laranja
 - violet: violeta / roxo
 - gris [gri]: cinza
-- grise: cinza
+- grise [griz]: cinza
 
 
 
