@@ -546,3 +546,9 @@ Feito de madeira. (Fait de bois.)
 - descend [dessan]: desce / descende / está descendo
 - (nous) dirigeons: dirigimos / conduzimos
 - dois [duá]: preciso / devo / tenho que / preciso
+- échange [exanje]: troco / intercâmbio
+- existe [ekziste]: existe / existo / existem
+- laisse [léce]: deixo / deixa
+- habite [abitî]: mora / está morando
+- joue [jô]: (eu) jogo / joga / (eu) brinco / (eu) toco (música)
+- 
