@@ -589,3 +589,7 @@ Feito de madeira. (Fait de bois.)
 - répond: responde
 - répondons [répondon]: (nós) respondemos
 - reviens [revian]: (eu) volto / (tu) voltas / voltas
+- réserve [rezer]: (ele/ela) reserva / reserva / (eu) reservo
+- retourne [retour]: retorna / (ele/ela) volta
+- semblent [samblan]: (eles/elas) parecem
+- reste [rest]: resta / restam / (ele) fica
