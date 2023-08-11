@@ -568,4 +568,24 @@ Feito de madeira. (Fait de bois.)
 - pèse [pez]: (eu) peso / (ele/ela) pesa
 - pense [pance]: (ele/ela) pensa em / (ele/ela) pensa / (ele/ela) pense
 - manques [manq]: (você) falta / (tu) perdes / (tu) faltas
-- 
+- reçoit [ressoá]: (ele/ela) recebe
+- promenez [prome]: (vocês) passeiam / (você) passeia / passeais
+- promene: passeia
+- programme [prrogrrame]: (ele/ela) programa / está programando
+- plante [plant]: (ele/ela) planta / planta
+- présente [presant]: apresenta / apresente
+- présentons [presentan]: apresentamos
+- préfère [prefér]: (eu) prefiro / (ele/ela) prefere
+- plaît [plê]: (ele/ela) agrada
+- plaisez [pleize]: queda
+- (je) rentre [rantrê]: eu volto / eu retorno / eu regresso / (eu) volto (para casa)
+- (je me) repose [répose]: eu descanso / eu repouso / repouso / descansa
+- refusent [refiuze]: (eles/elas) recusam
+- refusons [refuson]: recusamos
+- refuzes [refiuzê]: vocés 
+- représente [reprezant]: (ele/ela) representa
+- remarque [remarki]: (ele/ela) nota / nota / (eu) percebo
+- rend [ran]: (ele/ela) devolve / torna / deixa
+- répond: responde
+- répondons [répondon]: (nós) respondemos
+- reviens [revian]: (eu) volto / (tu) voltas / voltas
