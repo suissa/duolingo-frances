@@ -623,14 +623,14 @@ Feito de madeira. (Fait de bois.)
 - avoir [avoá]: ter
 - vider [vidê]: esvaziar / vazio
 - doit [duá]: deve
-- ajoute
-- ferme: fecha
-- entends
-- pose
-- saisis [seici]
-- vis
-- souhaite
-- entend
+- ajoute [ajutê]: adicionar
+- fermer [fermê]: fechar
+- ferme: fecha / fechado /fazenda
+- entends [antand]: ouve / ouvir
+- pose [puze]: disposto
+- saisis [seici]: agarrar / pegar / entender / apreender / processar
+- vis / voir: vê / ver
+- souhaite [sueit]: desejo
 - 
 
 
