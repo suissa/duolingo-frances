@@ -242,6 +242,7 @@
 - (vous) sûrs: seguros
 - noms [non]: nomes
 - nuit [nui]: noite
+- sud [sud]: sul
 
 ### Pronomes
 
@@ -506,6 +507,7 @@ Feito de madeira. (Fait de bois.)
 - (nous) voyons: vemos
 - (ils) trouvent [truvê]: encontram / acham / estão encontrando
 - (je) veux [vu]: quero / estou querendo / quiseres 
+- (nous) voulons: queremos
 - (vous) voulez [vulê]: querem / desejam
 - (il) vend [vend]: vende / está vendendo
 - (ils) vendent [vãnd]: vendem / estão vendendo
@@ -593,3 +595,44 @@ Feito de madeira. (Fait de bois.)
 - retourne [retour]: retorna / (ele/ela) volta
 - semblent [samblan]: (eles/elas) parecem
 - reste [rest]: resta / restam / (ele) fica
+- rêve [rév]: sonho
+- rêvons [revon]: (nós) sonhamos
+- ressemble [ressambl]: se parece com / me pareço com / pareço
+- enfuis [anfui] fujo
+- venez [vene]: (vocês) vêm / (vocês) estão vindo
+- rases [raze]: (tu) te barbeias
+- rasent [ráze]: barbeiam
+- travaille [travaile]: (eu) trabalho / (eu) estou trabalhando / (ele/ela) trabalha
+- travaillons [travailon]: (nós) trabalhamos
+- motive [môtive]: motivo / estou motivando
+- vaul [vô]: vale
+- intéresse [anterrece]: interssa / está interessado
+- enfuit []: (ele/ela) está fugindo
+- enfuyez [anfuiê]: fogem / (vós) fugis / (vocês) estão fugindo
+- utilisons [utilizon]: (nós) utilizamos / (nós) usamos
+- viens[]: vem
+- neige [néje]: neva / neve
+- faut [fôa]: é preciso / é necessário / é preciso / preciso
+- devient [devian]; fica / torna-se / passa a ser
+- concerne [concerne]: (ele/ela) refere-se a / (ele/ela) se refere a / (ele/ela) concerne
+- cassent [cass]: (eles/elas) quebram / quebram
+- boire [buar]: beber
+- devez [dêvê]: precisa / devem / têm que
+- manger [mangê]: comer / come
+- quitter [kitê]: deixar
+- avoir [avoá]: ter
+- vider [vidê]: esvaziar / vazio
+- doit [duá]: deve
+- ajoute
+- ferme: fecha
+- entends
+- pose
+- saisis [seici]
+- vis
+- souhaite
+- entend
+- 
+
+
+
+
