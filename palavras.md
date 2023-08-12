@@ -273,7 +273,7 @@
 - moi [moá]: me / mim / eu
 - toi [tuá]: contigo / vocé / ti
 - y [i]: lá / ai / nisso
-- eux [e]: eles
+- eux [eu]: eles
 - lui: eele / ela / a ele
 - s‘ si: se / sim / tanta 
 - m' [mé]: me / por mim
@@ -486,6 +486,7 @@ Feito de madeira. (Fait de bois.)
 - meurs [meur]: morro / estou morrendo
 - meurt [meurre]: morre / está morrendo
 - marche [marxe]: caminha / está caminhando / anda / está andando / funciona
+- marcheons [marxon]: caminhamos / andamos
 - marchent [marxe]: caminham / andam
 - (elle) mérite [mérriti]: merece / está merecendo
 - (il) montre: mostra / está mostrando / apresenta / está apresentando / relógio (de pulso)
@@ -504,6 +505,7 @@ Feito de madeira. (Fait de bois.)
 - (elles) portent:
 - (nous) portons
 - (elle) voit [vuá]: (ele/ela) vê / está vendo
+- voient [voa]: veem
 - (nous) voyons: vemos
 - (ils) trouvent [truvê]: encontram / acham / estão encontrando
 - (je) veux [vu]: quero / estou querendo / quiseres 
@@ -631,7 +633,7 @@ Feito de madeira. (Fait de bois.)
 - saisis [seici]: agarrar / pegar / entender / apreender / processar
 - vis / voir: vê / ver
 - souhaite [sueit]: desejo
-- 
+- dites [dit]: digam / diga / (vocês) dizem
 
 
 
