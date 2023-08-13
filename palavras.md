@@ -367,7 +367,7 @@ Feito de madeira. (Fait de bois.)
 - cause [coze]: por causa / causa
 - autant [otan] / ont: tantas / tantos / desde que / têm o mesmo tanto / têm a mesma quantidade
 - chose [xuse]: algo / coisa
-
+- devant [duvon]: a diante
 
 ### Roupas
 
@@ -634,6 +634,7 @@ Feito de madeira. (Fait de bois.)
 - vis / voir: vê / ver
 - souhaite [sueit]: desejo
 - dites [dit]: digam / diga / (vocês) dizem
+
 
 
 
