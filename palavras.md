@@ -186,6 +186,9 @@
 - doux [du]: macio
 - dure [dur]: dura / difícil
 - bienvenue [bianvenu]: bem-vinda / bem-vindo
+- d'accord [dacorr]: ok / tudo bem / de acordo
+- beaucoup [bocu]: muita / muito / muitos
+
 
 
 
