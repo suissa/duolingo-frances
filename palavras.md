@@ -188,7 +188,7 @@
 - bienvenue [bianvenu]: bem-vinda / bem-vindo
 - d'accord [dacorr]: ok / tudo bem / de acordo
 - beaucoup [bocu]: muita / muito / muitos
-
+  merci beaucoup: muito obrigado
 
 
 
@@ -343,7 +343,7 @@ Feito de madeira. (Fait de bois.)
 - en [ãn]: fica / é é em / é na / 
 - j en: (eu) estou indo embora / para / daqui a
 - aux [o]: às / para as / os
-- sur [siur]: no / em / sobre
+- sur [xiur]: no / em / sobre
 - sans [san]: sem
 - vers [ver]: até ela / em direção a / rumo a / para
 - chez [xe]: a casa dela / em / à casa de / na casa de
@@ -352,6 +352,7 @@ Feito de madeira. (Fait de bois.)
 - depuis [depui]: desde / deesde então / há
 - contre [contra]: contra / pela / por
 - travers [traver]: através da / através de
+- travaille [traverl]: atraves
 - derrière [dérrier]: atrás de / traeiro
 - selon [celon]: segundo / na nossa opinião / de acordo conosco / de acordo com / conforme
 - durant [diurran]: na / durante
@@ -416,7 +417,7 @@ Feito de madeira. (Fait de bois.)
 - vous êtes: vocês são
 - écrivent: escrevem
 - avons: temos
-- (je) vai: eu vou/ eu estou indo, for
+- (je) vai: eu vou / eu estou indo, for
 - (il) aide: ajuda, está ajudando / estou ajudando
 - (il) appelle: chama / está chamando / liga / está ligando / telefona para ele
 - (elle) adore: (ele/ela) adora / (eu) adoro / gosto de
@@ -450,6 +451,7 @@ Feito de madeira. (Fait de bois.)
 - (tu) peux: (vc) pode
 - (il) peut: (ele )pode
 - (nous) pouvons [puvon]: podemos
+- (vous) pouvez [puvê]: podem
 
 - j´agis [jagi]: eu ajo / atuo
 - agit [aji]: agir / age
@@ -639,5 +641,8 @@ Feito de madeira. (Fait de bois.)
 - souhaite [sueit]: desejo
 - dites [dit]: digam / diga / (vocês) dizem
 
+
+
+- allons []: lá
 
 
