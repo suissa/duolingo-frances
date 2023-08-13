@@ -185,6 +185,7 @@
 - douce [duce]: suave / mansa / doce
 - doux [du]: macio
 - dure [dur]: dura / difícil
+- bienvenue [bianvenu]: bem-vinda / bem-vindo
 
 
 
@@ -634,8 +635,6 @@ Feito de madeira. (Fait de bois.)
 - vis / voir: vê / ver
 - souhaite [sueit]: desejo
 - dites [dit]: digam / diga / (vocês) dizem
-
-
 
 
 
