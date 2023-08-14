@@ -580,7 +580,7 @@ Feito de madeira. (Fait de bois.)
 - manques [manq]: (você) falta / (tu) perdes / (tu) faltas
 - reçoit [ressoá]: (ele/ela) recebe
 - promenez [prome]: (vocês) passeiam / (você) passeia / passeais
-- promene: passeia
+- promène: passeia
 - programme [prrogrrame]: (ele/ela) programa / está programando
 - plante [plant]: (ele/ela) planta / planta
 - présente [presant]: apresenta / apresente
@@ -641,8 +641,9 @@ Feito de madeira. (Fait de bois.)
 - souhaite [sueit]: desejo
 - dites [dit]: digam / diga / (vocês) dizem
 
-
+- (je) sens: cheira
+- tourne: virou
 
 - allons []: lá
 
-
+- appelle [apéle]: chama
