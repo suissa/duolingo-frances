@@ -247,6 +247,14 @@
 - noms [non]: nomes
 - nuit [nui]: noite
 - sud [sud]: sul
+- mére: mãe
+- pére: pai
+- fils: filho
+- prénom: nome
+- neveu: sobrinho
+- oncle: tio
+- tante: tia
+- petit-fils: neto
 
 ### Pronomes
 
