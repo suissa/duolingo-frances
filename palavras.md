@@ -266,6 +266,7 @@
 - parents: pais
 - cousin: primo
 - bébé: bebe
+- mari [marri]: marido
 
 ### Pronomes
 
@@ -609,6 +610,7 @@ Feito de madeira. (Fait de bois.)
 - plaisez [pleize]: queda
 - (je) rentre [rantrê]: eu volto / eu retorno / eu regresso / (eu) volto (para casa)
 - (je me) repose [répose]: eu descanso / eu repouso / repouso / descansa
+- refuse []: recusa
 - refusent [refiuze]: (eles/elas) recusam
 - refusons [refuson]: recusamos
 - refuzes [refiuzê]: vocés 
@@ -647,6 +649,7 @@ Feito de madeira. (Fait de bois.)
 - boire [buar]: beber
 - devez [dêvê]: precisa / devem / têm que
 - manger [mangê]: comer / come
+- mangent [mangê]: comem
 - quitter [kitê]: deixar
 - avoir [avoá]: ter
 - vider [vidê]: esvaziar / vazio
@@ -668,3 +671,4 @@ Feito de madeira. (Fait de bois.)
 
 - appelle [apéle]: chama
 - il sort [sor]: sai
+- il vit [vi]: mora
