@@ -64,3 +64,6 @@ Eu só tenho dois casacos.
 
 La nuit est longue.
 A noite é longa.
+
+Quand est-ce qu`elle descend?
+Quando ela desce?

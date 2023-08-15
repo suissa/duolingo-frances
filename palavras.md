@@ -660,6 +660,7 @@ Feito de madeira. (Fait de bois.)
 - ajoute [ajutê]: adicionar
 - fermer [fermê]: fechar
 - ferme: fecha / fechado /fazenda
+- entend [antand]: ouve / ouvir
 - entends [antand]: ouve / ouvir
 - pose [puze]: disposto
 - saisis [seici]: agarrar / pegar / entender / apreender / processar
