@@ -249,7 +249,7 @@
 - noms [non]: nomes
 - nuit [nui]: noite
 - sud [sud]: sul
-- mére: mãe
+- mère: mãe
 - maman: mamãe
 - pére: pai
 - papa: papai
@@ -305,6 +305,7 @@
 - l' [lê]: o / a / ela
 - on [on]: a gente / é / se
 - parce que: porque sim
+- en [an]: disso
 
 
 ### Conjunções
@@ -450,6 +451,7 @@ Feito de madeira. (Fait de bois.)
 - (je) apprends: aprendo
 - (nous) apprenons: aprendemos / estamos aprendendo
 - (il) attend: (ele/ela) espera / (ele/ela) está esperando
+- attends: espero
 - (tu) connais: (você) conhece / (tu) conheces / sabe
 - (il) connaît: conheceß
 - (ça) commence: (ele/ela) começa / está começando / inicia / está iniciando / (eu) começo / estou começando
@@ -623,6 +625,7 @@ Feito de madeira. (Fait de bois.)
 - réserve [rezer]: (ele/ela) reserva / reserva / (eu) reservo
 - retourne [retour]: retorna / (ele/ela) volta
 - semblent [samblan]: (eles/elas) parecem
+- semble: parece
 - reste [rest]: resta / restam / (ele) fica
 - rêve [rév]: sonho
 - rêvons [revon]: (nós) sonhamos
@@ -672,3 +675,4 @@ Feito de madeira. (Fait de bois.)
 - appelle [apéle]: chama
 - il sort [sor]: sai
 - il vit [vi]: mora
+- je vis: vivo
