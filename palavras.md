@@ -3,6 +3,8 @@
 > Se a palavra termina com consoante o feminino adiciona e
 
 à
+æ
+œ
 è
 ù
 '
@@ -248,13 +250,22 @@
 - nuit [nui]: noite
 - sud [sud]: sul
 - mére: mãe
+- maman: mamãe
 - pére: pai
+- papa: papai
+- fille: filha
 - fils: filho
 - prénom: nome
 - neveu: sobrinho
+- neveux [nuvo]: sobrinhos
 - oncle: tio
 - tante: tia
+- irmã: sœur
 - petit-fils: neto
+- mariage: casamento
+- parents: pais
+- cousin: primo
+- bébé: bebe
 
 ### Pronomes
 
@@ -625,6 +636,7 @@ Feito de madeira. (Fait de bois.)
 - intéresse [anterrece]: interssa / está interessado
 - enfuit []: (ele/ela) está fugindo
 - enfuyez [anfuiê]: fogem / (vós) fugis / (vocês) estão fugindo
+- (elles) utilisent: usam / utilizam
 - utilisons [utilizon]: (nós) utilizamos / (nós) usamos
 - viens[]: vem
 - neige [néje]: neva / neve
@@ -655,3 +667,4 @@ Feito de madeira. (Fait de bois.)
 - allons []: lá
 
 - appelle [apéle]: chama
+- il sort [sor]: sai
