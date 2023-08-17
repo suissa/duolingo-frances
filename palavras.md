@@ -203,6 +203,7 @@
 - demain: amanhã 
 - bientôt: breve
 - excusez-moi: com licença
+- s'il vous plaît [sil vu ple]: por favor
 
 
 ### Cores
@@ -288,6 +289,14 @@
 - midi [midi]: meio-dia / tarde
 - journée [jurne]: dia
 - début [debu]: início / princípio / começo 
+- période [perrióde]: período / época / tempos
+- l'hiver [liver]: o inverno
+- hier [ier]: ontem
+- durée [diurre]: duração
+- matin [matan]: manhã / madrugada
+- semaine [semeine]: semana
+- jeunesse [jenece]: juventude
+- naissance [nessance]: nascimento / nascença
 
 
 
