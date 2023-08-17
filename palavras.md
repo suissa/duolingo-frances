@@ -282,6 +282,7 @@
 - mois [moa]: mês / meses
 - soir [soa]: hoje a noite / noite / pela noite
 - siècles [siécle]: séculos
+- dîner [dine]: jantar
 
 
 
