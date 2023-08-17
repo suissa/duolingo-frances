@@ -280,6 +280,8 @@
 - déjeuner [dejune]: almoço
 - matins [matan]: manhãs
 - mois [moa]: mês / meses
+- soir [soa]: hoje a noite / noite / pela noite
+- siècles [siécle]: séculos
 
 
 
