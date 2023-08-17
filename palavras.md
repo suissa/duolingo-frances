@@ -303,6 +303,7 @@
 - saison [cézon]: estação / temporada / época
 - la soirée [suarrê]: noite / festa
 - demi-heure [demi aur]: meia hora
+- demi [dêmi]: meio / meia
 - dimanche [dimanxe]: domingo
 - semaine [semeine]: semana
 - vendredi [vandredi]: sexta-feira / sexta
