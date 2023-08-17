@@ -267,6 +267,13 @@
 - cousin: primo
 - bébé: bebe
 - mari [marri]: marido
+- an l`an [lam]: ano
+- moment [momon]: momento / tempo
+- temps [tan] tempo / tempos
+- fois [fua]: vez / vezes
+- petit-déjeuner [petit dejane]: café da manhã
+- jours [jur]: dias
+
 
 ### Pronomes
 
@@ -573,12 +580,12 @@ Feito de madeira. (Fait de bois.)
 - consiste [conciste]: consiste
 - demande [demande]: pede / peço / estou perguntando
 - démontre [demontre]: (eu) demonstro / (eu) mostro / (eu) provo/comprovo
-- doute []: (ele/ela) duvida / dúvida
-- écoute [ecute]: escuta / escuto / escute
+- doute [dute]: (ele/ela) duvida / dúvida
+- écoute ecoute [ecute]: escuta / escuto / escute
 - descend [dessan]: desce / descende / está descendo
 - (nous) dirigeons: dirigimos / conduzimos
 - dois [duá]: preciso / devo / tenho que / preciso
-- échange [exanje]: troco / intercâmbio
+- échange echange [exanje]: troco / intercâmbio
 - existe [ekziste]: existe / existo / existem
 - laisse [léce]: deixo / deixa
 - laissent: deixam
@@ -644,8 +651,8 @@ Feito de madeira. (Fait de bois.)
 - (elles) utilisent: usam / utilizam
 - utilisons [utilizon]: (nós) utilizamos / (nós) usamos
 - viens[]: vem
-- neige [néje]: neva / neve
-- faut [fôa]: é preciso / é necessário / é preciso / preciso
+- neige [neje]: neva / neve
+- faut [fo]: é preciso / é necessário / é preciso / preciso
 - devient [devian]; fica / torna-se / passa a ser
 - concerne [concerne]: (ele/ela) refere-se a / (ele/ela) se refere a / (ele/ela) concerne
 - cassent [cass]: (eles/elas) quebram / quebram
@@ -677,3 +684,4 @@ Feito de madeira. (Fait de bois.)
 - il sort [sor]: sai
 - il vit [vi]: mora
 - je vis: vivo
+- sentent
