@@ -304,11 +304,18 @@
 - la soirée [suarrê]: noite / festa
 - demi-heure [demi aur]: meia hora
 - demi [dêmi]: meio / meia
+- aujourd'hui [ojordi]: hoje
+- hier [ier]: ontem
+- jeudi [jedi]: quinta
+- samedis [sandi]: sábados
 - dimanche [dimanxe]: domingo
 - semaine [semeine]: semana
 - vendredi [vandredi]: sexta-feira / sexta
 - lundi [landi]: segunda / segunda-feira / na segunda
-
+- anniversaire [aniversse]: aniversário
+- la montre [montr]: o relógio
+- été [ite]: verão
+- date [date]: data
 
 ### Meses
 
