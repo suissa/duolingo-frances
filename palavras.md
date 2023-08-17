@@ -300,12 +300,19 @@
 - la fête [féte]: a festa
 - le printemps [prantan]: a primavera
 - dimanche [dimanxe]: domingo
-- mai [mé]: maio
-- juin [juan]: junho
 - vacances [vécance]: férias
 - saison [cézon]: estação / temporada / época
 
 
+### Meses
+
+- mars [márce]: março
+- mai [mé]: maio
+- juin [juan]: junho
+- juillet [juiié]: julho
+- août [ut]: agosto
+- septembre [setambre]: setembro
+- octobre [octóbre]: outubro
 
 ### Pronomes
 
