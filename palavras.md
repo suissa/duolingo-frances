@@ -268,11 +268,19 @@
 - bébé: bebe
 - mari [marri]: marido
 - an l`an [lam]: ano
+- annés: anos
 - moment [momon]: momento / tempo
 - temps [tan] tempo / tempos
 - fois [fua]: vez / vezes
 - petit-déjeuner [petit dejane]: café da manhã
 - jours [jur]: dias
+- heures [ér]: horas
+- ans [an]: anos
+- matin [matan]: manhã
+- déjeuner [dejune]: almoço
+- matins [matan]: manhãs
+- mois [moa]: mês / meses
+
 
 
 ### Pronomes
