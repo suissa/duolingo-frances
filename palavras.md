@@ -283,6 +283,11 @@
 - soir [soa]: hoje a noite / noite / pela noite
 - siècles [siécle]: séculos
 - dîner [dine]: jantar
+- époque [epóke]: época
+- minute [miniute]: minuto
+- midi [midi]: meio-dia / tarde
+- journée [jurne]: dia
+- début [debu]: início / princípio / começo 
 
 
 
