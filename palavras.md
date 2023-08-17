@@ -294,25 +294,35 @@
 - hier [ier]: ontem
 - durée [diurre]: duração
 - matin [matan]: manhã / madrugada
-- semaine [semeine]: semana
 - jeunesse [jenece]: juventude
 - naissance [nessance]: nascimento / nascença
 - la fête [féte]: a festa
 - le printemps [prantan]: a primavera
-- dimanche [dimanxe]: domingo
+- automne [otone]: outono
 - vacances [vécance]: férias
 - saison [cézon]: estação / temporada / época
+- la soirée [suarrê]: noite / festa
+- demi-heure [demi aur]: meia hora
+- dimanche [dimanxe]: domingo
+- semaine [semeine]: semana
+- vendredi [vandredi]: sexta-feira / sexta
+- lundi [landi]: segunda / segunda-feira / na segunda
 
 
 ### Meses
 
+- janvier [janvie]: janeiro
+- février [fevriê]: fevereiro
 - mars [márce]: março
+- avril [avrile]: abril
 - mai [mé]: maio
 - juin [juan]: junho
 - juillet [juiié]: julho
 - août [ut]: agosto
 - septembre [setambre]: setembro
 - octobre [octóbre]: outubro
+- novembre [novanbre]: novembro
+- décembre [dêssambre]: dezembxro
 
 ### Pronomes
 
