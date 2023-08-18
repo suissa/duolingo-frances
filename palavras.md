@@ -776,3 +776,4 @@ Feito de madeira. (Fait de bois.)
 - dormir [dormir]: dormir
 - montrer [montrre]: mostrar / mostrar-lhe
 - porter [porte]: carregar / trazer / vestir
+
