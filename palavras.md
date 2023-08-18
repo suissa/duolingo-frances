@@ -765,4 +765,5 @@ Feito de madeira. (Fait de bois.)
 - comprender [comprand]: compreender / entender
 - (lui) parler [parlê]: falar com ela|ele / falar /conversar
 - donner [done]: dar / dar para / doar
+- lire [lir]: ler
 - 
