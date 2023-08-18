@@ -766,4 +766,5 @@ Feito de madeira. (Fait de bois.)
 - (lui) parler [parlê]: falar com ela|ele / falar /conversar
 - donner [done]: dar / dar para / doar
 - lire [lir]: ler
+- demander [demande]: perguntar / pedir
 - 
