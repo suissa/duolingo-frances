@@ -767,4 +767,5 @@ Feito de madeira. (Fait de bois.)
 - donner [done]: dar / dar para / doar
 - lire [lir]: ler
 - demander [demande]: perguntar / pedir
+- achater [axate]: comprar
 - 
