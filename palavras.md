@@ -304,8 +304,11 @@
 - la soirée [suarrê]: noite / festa
 - demi-heure [demi aur]: meia hora
 - demi [dêmi]: meio / meia
+- minuit [minui]: meia-noite
 - aujourd'hui [ojordi]: hoje
 - hier [ier]: ontem
+- mardi [mardi]: terça
+- mercredi [mercredi]: quarta
 - jeudi [jedi]: quinta
 - samedis [sandi]: sábados
 - dimanche [dimanxe]: domingo
@@ -316,6 +319,9 @@
 - la montre [montr]: o relógio
 - été [ite]: verão
 - date [date]: data
+- rendez-vous [randevu]: compromisso / consulta / encontro
+- calendrier [calendrie]: calendário
+
 
 ### Meses
 
@@ -370,7 +376,7 @@
 - on [on]: a gente / é / se
 - parce que: porque sim
 - en [an]: disso
-
+- chaque [xake]: cada
 
 ### Conjunções
 
@@ -742,3 +748,21 @@ Feito de madeira. (Fait de bois.)
 - il vit [vi]: mora
 - je vis: vivo
 - sentent
+
+##### Infinitivo
+
+- avoir [avoar]: ter / conseguir / sofrer
+- dire [dir]: dizer / contemos
+- être [étre]: ser / estar
+- faire [fér]: fazer
+- pouvoir [puvua]: poder
+- (la) voir [vuar]: vê-la / ver
+- prendre [prendre]: levar meu tempo / tomar / pegar / tirar
+- venir [venir]: vir
+- savoir [savuar]: saber / sabê-lo /conhecimento
+- penser [pance]: pensar
+- vivre [vivrre]: viver / morar
+- comprender [comprand]: compreender / entender
+- (lui) parler [parlê]: falar com ela|ele / falar /conversar
+- donner [done]: dar / dar para / doar
+- 
