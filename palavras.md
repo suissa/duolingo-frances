@@ -499,7 +499,7 @@ Feito de madeira. (Fait de bois.)
 - essayer: tentar/experimentar
 - goûter: provar
 - voudrais: gostaria
-- chercher: procurar
+- chercher: procurar / vou buscar
 - il y a: tem
 - sont [son]: estão / são
 - lisent: leem
@@ -771,3 +771,7 @@ Feito de madeira. (Fait de bois.)
 - regarder [regard]: olharás / olhará / olhar / olhar para
 - écrire [ecrir]: escrever
 - jouer [jue]: brincar / jogar / tocar
+- aimer [eime]: amar / gostar
+- appeler [apele]: chamar / ligo
+- dormir [dormir]: dormir
+- montrer [montrre]: mostrar / mostrar-lhe
