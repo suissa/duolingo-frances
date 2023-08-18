@@ -775,3 +775,4 @@ Feito de madeira. (Fait de bois.)
 - appeler [apele]: chamar / ligo
 - dormir [dormir]: dormir
 - montrer [montrre]: mostrar / mostrar-lhe
+- porter [porte]: carregar / trazer / vestir
