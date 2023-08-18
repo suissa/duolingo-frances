@@ -769,4 +769,5 @@ Feito de madeira. (Fait de bois.)
 - demander [demande]: perguntar / pedir
 - achater [axate]: comprar
 - regarder [regard]: olharás / olhará / olhar / olhar para
+- écrire [ecrir]: escrever
 - 
