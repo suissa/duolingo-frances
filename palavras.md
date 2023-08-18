@@ -770,4 +770,4 @@ Feito de madeira. (Fait de bois.)
 - achater [axate]: comprar
 - regarder [regard]: olharás / olhará / olhar / olhar para
 - écrire [ecrir]: escrever
-- 
+- jouer [jue]: brincar / jogar / tocar
