@@ -787,6 +787,7 @@ Feito de madeira. (Fait de bois.)
 - emmener [omene]: levar / trazer
 - vider [vide]: esvaziar
 - inviter [unvite]: convidar
-- griller [grile]: grelhar / tostar / assar
+- griller [grii e]: grelhar / tostar / assar
 - goûter [gute]: provar / lanche
-- couper [coupe]: cortar / partir
+- couper [coupe]: cortar / partir (de dividir)
+- 
