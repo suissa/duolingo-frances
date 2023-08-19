@@ -789,3 +789,4 @@ Feito de madeira. (Fait de bois.)
 - inviter [unvite]: convidar
 - griller [grile]: grelhar / tostar / assar
 - goûter [gute]: provar / lanche
+- couper [coupe]: cortar / partir
