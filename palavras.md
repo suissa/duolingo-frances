@@ -512,6 +512,7 @@ Feito de madeira. (Fait de bois.)
 - (il) aide: ajuda, está ajudando / estou ajudando
 - (il) appelle: chama / está chamando / liga / está ligando / telefona para ele
 - (elle) adore: (ele/ela) adora / (eu) adoro / gosto de
+- apporter [aporte]: trazer
 - (il) apporte: (ele/ela) traz / (ele/ela) leva / dá
 - (je) fais: faço / estou fazendo
 - (Vous) faites: fazem / faz / faça
@@ -583,6 +584,7 @@ Feito de madeira. (Fait de bois.)
 - met: coloca
 - meurs [meur]: morro / estou morrendo
 - meurt [meurre]: morre / está morrendo
+- marcher: caminhar / andar
 - marche [marxe]: caminha / está caminhando / anda / está andando / funciona
 - marcheons [marxon]: caminhamos / andamos
 - marchent [marxe]: caminham / andam
@@ -776,4 +778,10 @@ Feito de madeira. (Fait de bois.)
 - dormir [dormir]: dormir
 - montrer [montrre]: mostrar / mostrar-lhe
 - porter [porte]: carregar / trazer / vestir
-
+- choiser: escolher
+- aller [alê]: ir / chegar
+- sauver [sove]: salvar / resgatar
+- vendre [vande]: vender 
+- bouillir [buier]: ferver
+- cacher [caxe]: esconder
+- emmener [omene]: levar / trazer
