@@ -785,3 +785,7 @@ Feito de madeira. (Fait de bois.)
 - bouillir [buier]: ferver
 - cacher [caxe]: esconder
 - emmener [omene]: levar / trazer
+- vider [vide]: esvaziar
+- inviter [unvite]: convidar
+- griller [grile]: grelhar / tostar / assar
+- goûter [gute]: provar / lanche
