@@ -432,6 +432,7 @@
 - assez [ace]: bastante / suficiente / chega
 - ailleurs [aieur]: em outro lugar / para outro lugar
 - tant [tan]: tantos / tantas / tanto
+- presque [preke]: quase
 - []: 
 
 ### Preposição
