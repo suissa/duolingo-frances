@@ -442,6 +442,8 @@
 - autour [otur]: ao redor
 - voilà [voala]: aqui / ali / lá
 - vite [viti]: rápido / depressa
+- longtemps [lontamp]: muito tempo
+- plutôt [pluto]: bastante / bem / mais
 - []
 
 
