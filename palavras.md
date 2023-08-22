@@ -417,12 +417,6 @@
 - après [apre]: tarde / a tarde / depois
 - trop [tro]: demais
 - toujours [tujur]: ainda / sempre
-- moins [moa]: menos
-- moins grand: menor
-- puis [pui]: então / depois / além disso
-- déjà [deja]: já
-- enfimn[anfan]: enfim / até que enfim / finalmente
-
 
 
 ### Preposição
