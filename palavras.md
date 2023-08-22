@@ -434,6 +434,8 @@
 - tant [tan]: tantos / tantas / tanto
 - presque [preke]: quase
 - loin [loan]: longe
+- parfois [parfoa]: as vezes
+- pourtant [pourtan]: ainda assim / mesmo assim / não obstante
 - []: 
 
 ### Preposição
