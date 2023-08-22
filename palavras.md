@@ -424,7 +424,7 @@
 - enfimn[anfan]: enfim / até que enfim / finalmente
 - mal [mal]: mal /aleijam
 - ça va mal: as coisas vão mal
-- souvent [sunan]: 
+- souvent [suvan]: frequentemente
 
 ### Preposição
 
