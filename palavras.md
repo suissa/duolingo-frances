@@ -420,6 +420,7 @@
 - moins [moa]: menos
 - moins grand: menor
 - puis [pui]: então / depois / além disso
+- déjà [deja]: já
 
 
 ### Preposição
