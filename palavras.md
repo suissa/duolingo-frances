@@ -421,7 +421,7 @@
 - moins grand: menor
 - puis [pui]: então / depois / além disso
 - déjà [deja]: já
-- enfimn[anfan]: enfim
+- enfimn[anfan]: enfim / até que enfim / finalmente
 
 
 
