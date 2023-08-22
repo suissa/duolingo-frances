@@ -417,6 +417,7 @@
 - après [apre]: tarde / a tarde / depois
 - trop [tro]: demais
 - toujours [tujur]: ainda / sempre
+- moins [moa]: menos
 
 
 ### Preposição
