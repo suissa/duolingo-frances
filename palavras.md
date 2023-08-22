@@ -425,6 +425,9 @@
 - mal [mal]: mal /aleijam
 - ça va mal: as coisas vão mal
 - souvent [suvan]: frequentemente
+- ici [ici]: aqui / cá
+- maintenant [mautunam/matunam]: agora
+- []: 
 
 ### Preposição
 
