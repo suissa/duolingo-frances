@@ -433,6 +433,7 @@
 - ailleurs [aieur]: em outro lugar / para outro lugar
 - tant [tan]: tantos / tantas / tanto
 - presque [preke]: quase
+- loin [loan]: longe
 - []: 
 
 ### Preposição
