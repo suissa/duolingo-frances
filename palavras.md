@@ -427,6 +427,11 @@
 - souvent [suvan]: frequentemente
 - ici [ici]: aqui / cá
 - maintenant [mautunam/matunam]: agora
+- seulement [soulman]: apenas / somente / só
+- mieux [mie]: melhor
+- assez [ace]: bastante / suficiente / chega
+- ailleurs [aieur]: em outro lugar / para outro lugar
+- tant [tan]: tantos / tantas / tanto
 - []: 
 
 ### Preposição
