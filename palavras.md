@@ -405,6 +405,25 @@
 
 - donc [donqui]: e daí / então / daí / portanto
 - D'apres dapres [dápré]: segundo / de acordo com / conforme
+- aussi [oci/ossi]: também
+- bien [bian]: claro / bem / bom
+- bien sûr: claro
+- là [la]: ai / lá / aqui
+- encore [oncore]: novamente / de novo / mais
+- très [trre]: muito
+- peu [pê]: um pouquinho / pouco de / poucos / poucas
+- plus [plus]: mais
+- ainsi [anci]: assim
+- après [apre]: tarde / a tarde / depois
+- trop [tro]: demais
+- toujours [tujur]: ainda / sempre
+- moins [moa]: menos
+- moins grand: menor
+- puis [pui]: então / depois / além disso
+- déjà [deja]: já
+- enfimn[anfan]: enfim
+
+
 
 ### Preposição
 
