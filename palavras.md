@@ -439,7 +439,11 @@
 - bas [ba]: embaixo / baixo / baixos / meias
 - surtout [siurtu]: sobretudo / especialmente / acima de tudo
 - dessu [dessu]: cima / acima
-- []:
+- autour [otur]: ao redor
+- voilà [voala]: aqui / ali / lá
+- vite [viti]: rápido / depressa
+- []
+
 
 ### Preposição
 
