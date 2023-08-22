@@ -418,6 +418,7 @@
 - trop [tro]: demais
 - toujours [tujur]: ainda / sempre
 - moins [moa]: menos
+- moins grand: menor
 
 
 ### Preposição
