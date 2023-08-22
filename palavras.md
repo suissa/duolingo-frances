@@ -436,7 +436,8 @@
 - loin [loan]: longe
 - parfois [parfoa]: as vezes
 - pourtant [pourtan]: ainda assim / mesmo assim / não obstante
-- []: 
+- bas [ba]: embaixo / baixo / baixos / meias
+- []:
 
 ### Preposição
 
