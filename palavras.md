@@ -437,6 +437,8 @@
 - parfois [parfoa]: as vezes
 - pourtant [pourtan]: ainda assim / mesmo assim / não obstante
 - bas [ba]: embaixo / baixo / baixos / meias
+- surtout [siurtu]: sobretudo / especialmente / acima de tudo
+- dessu [dessu]: cima / acima
 - []:
 
 ### Preposição
