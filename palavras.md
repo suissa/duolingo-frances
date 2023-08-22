@@ -419,6 +419,7 @@
 - toujours [tujur]: ainda / sempre
 - moins [moa]: menos
 - moins grand: menor
+- puis [pui]: então / depois / além disso
 
 
 ### Preposição
