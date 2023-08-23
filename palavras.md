@@ -461,7 +461,10 @@
 - notamment [notamon]: especialmente
 - tôt [to]: cedo
 - évidemment [evidamon]: evidentemente
-
+- postérieurement [posterriomon]: posteriormente
+- environ [anvirron]: aproximadamente / cerca de / uns
+- rapidement [rapidmon]: rapidamente / rápido
+- 
 
 
 
