@@ -446,7 +446,8 @@
 - plutôt [pluto]: bastante / bem / mais
 - autant [otan]: tanto como / tanto quanto
 - cependant [cepandan]: entretanto / no entanto / porém
-- []
+- vraiment [vrémon]: é mesmo / mesmo / realmente
+- partout [partu]: em toda parte / para todos os lados
 
 
 
