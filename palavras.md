@@ -450,7 +450,8 @@
 - partout [partu]: em toda parte / para todos os lados
 - dehors [duor]: fora
 - simplement [samplemen]: simplesmente simplícissimo
-- []: 
+- tellement [telman]: tão / tanto / tanta
+- ensuite [onssuite]: depois / a seguir / em seguida
 
 
 
