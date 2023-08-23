@@ -458,6 +458,7 @@
 - lors [lor]: durante
 - devantage [devantaje]: mais
 - particulièrement [particuliarmon]: particularmente 
+- notamment [notamon]: especialmente
 
 
 
