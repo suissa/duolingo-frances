@@ -457,7 +457,8 @@
 - au-delà [ou dola]: além
 - lors [lor]: durante
 - devantage [devantaje]: mais
-- []: 
+- particulièrement [particuliarmon]: particularmente 
+
 
 
 
