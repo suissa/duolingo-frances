@@ -452,6 +452,7 @@
 - simplement [samplemen]: simplesmente simplícissimo
 - tellement [telman]: tão / tanto / tanta
 - ensuite [onssuite]: depois / a seguir / em seguida
+- exactement [eqzacteman]: exatamente
 
 
 
