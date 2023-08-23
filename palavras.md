@@ -453,6 +453,8 @@
 - tellement [telman]: tão / tanto / tanta
 - ensuite [onssuite]: depois / a seguir / em seguida
 - exactement [eqzacteman]: exatamente
+- voici [voaci]: aqui está / eis aqui / eis
+- 
 
 
 
