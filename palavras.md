@@ -448,6 +448,9 @@
 - cependant [cepandan]: entretanto / no entanto / porém
 - vraiment [vrémon]: é mesmo / mesmo / realmente
 - partout [partu]: em toda parte / para todos os lados
+- dehors [duor]: fora
+- simplement [samplemen]: simplesmente simplícissimo
+- []: 
 
 
 
