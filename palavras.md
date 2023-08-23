@@ -444,6 +444,8 @@
 - vite [viti]: rápido / depressa
 - longtemps [lontamp]: muito tempo
 - plutôt [pluto]: bastante / bem / mais
+- autant [otan]: tanto como / tanto quanto
+- cependant [cepandan]: entretanto / no entanto / porém
 - []
 
 
