@@ -459,7 +459,9 @@
 - devantage [devantaje]: mais
 - particulièrement [particuliarmon]: particularmente 
 - notamment [notamon]: especialmente
-- []: 
+- tôt [to]: cedo
+- évidemment [evidamon]: evidentemente
+
 
 
 
