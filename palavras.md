@@ -344,7 +344,9 @@
 - l'enseignant [lessinham]: o professor
 - la avocate [avocate]: a advogada
 - ingénieur [angenier]: engenheiro / engenheira
-
+- journaliste [journalist]: jornalista
+- retraite [retrete]: aponsentadoria
+- il prend sa retraite: ele se aposenta
 
 
 
