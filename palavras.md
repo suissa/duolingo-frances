@@ -348,7 +348,8 @@
 - journaliste [journalist]: jornalista
 - retraite [retrete]: aponsentadoria
 - il prend sa retraite: ele se aposenta
-- []: 
+- personnel [personel]: equipe / pessoal /equipa
+
 
 
 
