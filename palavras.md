@@ -321,6 +321,9 @@
 - date [date]: data
 - rendez-vous [randevu]: compromisso / consulta / encontro
 - calendrier [calendrie]: calendário
+
+### trabalhos
+
 - la police [police]: a polícia
 - le roi [roa]: rei
 - auter [oter]: autor
@@ -329,6 +332,8 @@
 - métier [metie]: trabalho / ofício / profissão
 - éducacion [educacion]: educação
 - travaux [travo]: trabalhos
+- le juge [juje]: o juíz
+- le prince [prance]: o príncipe
 
 
 
