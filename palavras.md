@@ -233,7 +233,7 @@
 - cuisine [kuicine]: cozinha
 - mot: palavra
 - mot de passe: senha
-- m´aider: me ajude
+- m'aider: me ajude
 - carte: cartão
 - payer: pagar
 - puis: então
@@ -334,6 +334,10 @@
 - travaux [travo]: trabalhos
 - le juge [juje]: o juíz
 - le prince [prance]: o príncipe
+- la carrière [carrier]: carreira
+- le doctteur [docter]: o médico
+- le professeur [professor]: o professor
+
 
 
 
