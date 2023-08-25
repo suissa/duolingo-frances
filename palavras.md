@@ -341,7 +341,10 @@
 - secrétaire [secreter]: secretário / secretária
 - le soldat [solda]: soldado
 - le chef [chefe]: o chefe
-- 
+- l'enseignant [lessinham]: o professor
+- la avocate [avocate]: a advogada
+- ingénieur [angenier]: engenheiro / engenheira
+
 
 
 
