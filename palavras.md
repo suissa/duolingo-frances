@@ -242,7 +242,7 @@
 - couleur: cor
 - (le) soleil: sol
 - (le) ciel: céu
-- (la) heure [ær]: 
+- (la) heure [ær er]: 
 - montre: relógio
 - photographies: fotografias / fotos
 - sûr: certeza / seguro / certo
@@ -321,6 +321,8 @@
 - date [date]: data
 - rendez-vous [randevu]: compromisso / consulta / encontro
 - calendrier [calendrie]: calendário
+- la police [police]: a polícia
+- le roi [roa]: rei
 
 
 ### Meses
