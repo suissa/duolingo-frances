@@ -342,11 +342,13 @@
 - le soldat [solda]: soldado
 - le chef [chefe]: o chefe
 - l'enseignant [lessinham]: o professor
+- la enseignante [ensenhante]: professora
 - la avocate [avocate]: a advogada
 - ingénieur [angenier]: engenheiro / engenheira
 - journaliste [journalist]: jornalista
 - retraite [retrete]: aponsentadoria
 - il prend sa retraite: ele se aposenta
+- []: 
 
 
 
