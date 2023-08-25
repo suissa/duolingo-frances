@@ -324,7 +324,12 @@
 - la police [police]: a polícia
 - le roi [roa]: rei
 - auter [oter]: autor
-- []: 
+- travail [travaile]: trabalho / cargo / obra 
+- emploi [amploa]: emprego
+- métier [metie]: trabalho / ofício / profissão
+- éducacion [educacion]: educação
+- travaux [travo]: trabalhos
+
 
 
 ### Meses
