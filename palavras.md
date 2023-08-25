@@ -334,11 +334,12 @@
 - travaux [travo]: trabalhos
 - le juge [juje]: o juíz
 - le prince [prance]: o príncipe
+- la princesse [pracess]: a princesa
 - la carrière [carrier]: carreira
 - le doctteur [docter]: o médico
 - le professeur [professor]: o professor
 - secrétaire [secreter]: secretário / secretária
-
+- 
 
 
 
