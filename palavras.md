@@ -339,7 +339,8 @@
 - le doctteur [docter]: o médico
 - le professeur [professor]: o professor
 - secrétaire [secreter]: secretário / secretária
-- 
+- le soldat [solda]: soldado
+
 
 
 
