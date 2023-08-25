@@ -323,6 +323,8 @@
 - calendrier [calendrie]: calendário
 - la police [police]: a polícia
 - le roi [roa]: rei
+- auter [oter]: autor
+- []: 
 
 
 ### Meses
