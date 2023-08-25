@@ -340,6 +340,7 @@
 - le professeur [professor]: o professor
 - secrétaire [secreter]: secretário / secretária
 - le soldat [solda]: soldado
+- le policier [policie]: o policial
 - le chef [chefe]: o chefe
 - l'enseignant [lessinham]: o professor
 - la enseignante [ensenhante]: professora
