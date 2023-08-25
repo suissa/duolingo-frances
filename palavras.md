@@ -340,7 +340,8 @@
 - le professeur [professor]: o professor
 - secrétaire [secreter]: secretário / secretária
 - le soldat [solda]: soldado
-
+- le chef [chefe]: o chefe
+- 
 
 
 
