@@ -352,7 +352,9 @@
 - personnel [personel]: equipe / pessoal /equipa
 - le cuisinier [cuisinhe]: o cozinheiro
 - le serveur [server]: o garçom
-- []:
+- la serveuse [seurveze]: garçonete
+- chauffeur [chofer]: motorista
+
 
 
 
