@@ -360,7 +360,14 @@
 
 - jamais [jamé]: nunca / jamais
 - rien [rian]: nada
-- []:
+- n' ne [ne]: não
+- n'ai: não tenho
+- pas [pa]: não
+- ne ... pas: não
+- ni [ni]: nem
+- personne [perssone]: ninguém / pessoa
+- []: 
+
 
 
 ### Meses
