@@ -356,6 +356,10 @@
 - chauffeur [chofer]: motorista
 
 
+### Negação
+
+jamais [jamé]: nunca / jamais
+
 
 
 ### Meses
