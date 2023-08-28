@@ -358,8 +358,9 @@
 
 ### Negação
 
-jamais [jamé]: nunca / jamais
-
+- jamais [jamé]: nunca / jamais
+- rien [rian]: nada
+- []:
 
 
 ### Meses
