@@ -366,7 +366,8 @@
 - ne ... pas: não
 - ni [ni]: nem
 - personne [perssone]: ninguém / pessoa
-- []: 
+- il n'y a plus... []: não há mais ... 
+- []:
 
 
 
