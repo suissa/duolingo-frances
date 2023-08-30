@@ -356,6 +356,7 @@
 - chauffeur [chofer]: motorista
 
 
+
 ### Negação
 
 - jamais [jamé]: nunca / jamais
@@ -371,6 +372,7 @@
 - tout [tu]: todo
 - pas du tout []: de jeito nenhum / de forma alguma / de mogo algum
 - []: 
+
 
 
 ### Meses
