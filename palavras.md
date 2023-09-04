@@ -521,6 +521,7 @@
 - parfaitement [parfetman]: perfeitamente
 - autrement [utremon]: de outro modo / de outra maneira / de outra forma
 - actuellement [actuelman]: atualmente
+- naturellement [naturralman]: por natureza / naturalmente
 
 
 
