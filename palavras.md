@@ -516,7 +516,8 @@
 - postérieurement [posterriomon]: posteriormente
 - environ [anvirron]: aproximadamente / cerca de / uns
 - rapidement [rapidmon]: rapidamente / rápido
-- 
+- complètement [completman]: completamente
+- dessous [dessu]: 
 
 
 
