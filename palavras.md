@@ -518,7 +518,8 @@
 - rapidement [rapidmon]: rapidamente / rápido
 - complètement [completman]: completamente
 - dessous [dessu]: embaixo / debaixo
-
+- parfaitement [parfetman]: perfeitamente
+- 
 
 
 
