@@ -371,7 +371,7 @@
 - il n'y a plus... []: não há mais ... 
 - tout [tu]: todo
 - pas du tout []: de jeito nenhum / de forma alguma / de mogo algum
-- []: 
+
 
 
 
