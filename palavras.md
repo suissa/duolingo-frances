@@ -525,6 +525,7 @@
 - directement [dirrectman]: diretamente / direto
 
 
+
 ### Preposição
 
 - Dès [de]: desde / a partir de
