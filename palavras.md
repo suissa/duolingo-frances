@@ -517,7 +517,8 @@
 - environ [anvirron]: aproximadamente / cerca de / uns
 - rapidement [rapidmon]: rapidamente / rápido
 - complètement [completman]: completamente
-- dessous [dessu]: 
+- dessous [dessu]: embaixo / debaixo
+
 
 
 
