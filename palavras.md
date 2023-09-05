@@ -524,7 +524,8 @@
 - naturellement [naturralman]: por natureza / naturalmente
 - directement [dirrectman]: diretamente / direto
 - finalemente [finalman]: finalemente
--
+- dedans [dedan]: dentro / adentro
+- certainement [certaiman]; com certeza / certamente / definitivamente
 
 
 ### Preposição
