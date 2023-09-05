@@ -528,6 +528,7 @@
 - certainement [certaiman]; com certeza / certamente / definitivamente
 - absolument [absoluman]: absolutamente / completamente
 - précisément precisament [preciseman]: precisamente
+- immédiatement [imediataman]: imediatamanete / de imediato
 
 ### Preposição
 
