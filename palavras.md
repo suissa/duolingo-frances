@@ -523,7 +523,8 @@
 - actuellement [actuelman]: atualmente
 - naturellement [naturralman]: por natureza / naturalmente
 - directement [dirrectman]: diretamente / direto
-
+- finalemente [finalman]: finalemente
+-
 
 
 ### Preposição
