@@ -529,6 +529,8 @@
 - absolument [absoluman]: absolutamente / completamente
 - précisément precisament [preciseman]: precisamente
 - immédiatement [imediataman]: imediatamanete / de imediato
+- entièrement [anteireman]: inteiramente / completamente
+- heureusement []
 
 ### Preposição
 
