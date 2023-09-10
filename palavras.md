@@ -536,6 +536,8 @@
 - relativement [relativemam]: relativamente 
 - compltement [completman]: completamente
 - légèrement [legermon]: ligeiramente / levemente
+- sûrement [surman]: certamente / seguramente
+
 
 ### Preposição
 
