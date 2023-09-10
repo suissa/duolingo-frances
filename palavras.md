@@ -543,7 +543,8 @@
 - fortement [fortman]: fortemente
 - rarement [rarmon]: raramenteß
 - uniquement [inikemon]: unicamente / só
-- []: 
+- suffisamment [sufizaman]: o suficiente / suficientemente
+- []:  
 
 
 
