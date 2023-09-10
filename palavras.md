@@ -539,7 +539,9 @@
 - sûrement [surman]: certamente / seguramente
 - extrêmement [extrememon]: extremamente
 - totalment [totalman]: totalmente
-- 
+- définitivement [definitiveman]: definitivamente
+- fortement [fortman]: fortemente
+
 
 ### Preposição
 
