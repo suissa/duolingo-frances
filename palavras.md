@@ -533,7 +533,8 @@
 - heureusement [eurrizemon]: felizmente
 - facilment [facilmon]: facilmente
 - probablement [probablemon]: provavelmente
-- []: 
+- relativement [relativemam]: relativamente 
+
 
 ### Preposição
 
