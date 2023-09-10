@@ -516,7 +516,7 @@
 - postérieurement [posterriomon]: posteriormente
 - environ [anvirron]: aproximadamente / cerca de / uns
 - rapidement [rapidmon]: rapidamente / rápido
-- complètement [completman]: completamente
+- compltement [completman]: completamente
 - dessous [dessu]: embaixo / debaixo
 - parfaitement [parfetman]: perfeitamente
 - autrement [utremon]: de outro modo / de outra maneira / de outra forma
@@ -534,7 +534,8 @@
 - facilment [facilmon]: facilmente
 - probablement [probablemon]: provavelmente
 - relativement [relativemam]: relativamente 
-
+- compltement [completman]: completamente
+- légèrement [legermon]: ligeiramente / levemente
 
 ### Preposição
 
