@@ -538,6 +538,8 @@
 - légèrement [legermon]: ligeiramente / levemente
 - sûrement [surman]: certamente / seguramente
 - extrêmement [extrememon]: extremamente
+- totalment [totalman]: totalmente
+- 
 
 ### Preposição
 
