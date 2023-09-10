@@ -532,7 +532,8 @@
 - entièrement [anteireman]: inteiramente / completamente
 - heureusement [eurrizemon]: felizmente
 - facilment [facilmon]: facilmente
-
+- probablement [probablemon]: provavelmente
+- []: 
 
 ### Preposição
 
