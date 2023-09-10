@@ -531,7 +531,8 @@
 - immédiatement [imediataman]: imediatamanete / de imediato
 - entièrement [anteireman]: inteiramente / completamente
 - heureusement [eurrizemon]: felizmente
--
+- facilment [facilmon]: facilmente
+
 
 ### Preposição
 
