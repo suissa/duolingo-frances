@@ -541,6 +541,10 @@
 - totalment [totalman]: totalmente
 - définitivement [definitiveman]: definitivamente
 - fortement [fortman]: fortemente
+- rarement [rarmon]: raramenteß
+- uniquement [inikemon]: unicamente / só
+- []: 
+
 
 
 ### Preposição
