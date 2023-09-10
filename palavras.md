@@ -530,7 +530,8 @@
 - précisément precisament [preciseman]: precisamente
 - immédiatement [imediataman]: imediatamanete / de imediato
 - entièrement [anteireman]: inteiramente / completamente
-- heureusement []
+- heureusement [eurrizemon]: felizmente
+-
 
 ### Preposição
 
