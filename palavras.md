@@ -545,6 +545,7 @@
 - uniquement [inikemon]: unicamente / só
 - suffisamment [sufizamon]: o suficiente / suficientemente
 - réellement [realman]: realmente 
+- []: 
 
 
 
