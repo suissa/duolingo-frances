@@ -544,8 +544,7 @@
 - rarement [rarmon]: raramenteß
 - uniquement [inikemon]: unicamente / só
 - suffisamment [sufizamon]: o suficiente / suficientemente
-- réellement [realman]: realmente 
-- []: 
+- réellement [realman]: realmente
 
 
 
